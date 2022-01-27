@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\Clases\Clases\bin\Debug\netcoreapp3.1\Clases.exe
+C:\Users\live_\source\repos\Clases\Clases\bin\Debug\netcoreapp3.1\Clases.deps.json
+C:\Users\live_\source\repos\Clases\Clases\bin\Debug\netcoreapp3.1\Clases.runtimeconfig.json
+C:\Users\live_\source\repos\Clases\Clases\bin\Debug\netcoreapp3.1\Clases.runtimeconfig.dev.json
+C:\Users\live_\source\repos\Clases\Clases\bin\Debug\netcoreapp3.1\Clases.dll
+C:\Users\live_\source\repos\Clases\Clases\bin\Debug\netcoreapp3.1\Clases.pdb
+C:\Users\live_\source\repos\Clases\Clases\obj\Debug\netcoreapp3.1\Clases.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\Clases\Clases\obj\Debug\netcoreapp3.1\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\Clases\Clases\obj\Debug\netcoreapp3.1\Clases.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\Clases\Clases\obj\Debug\netcoreapp3.1\Clases.AssemblyInfo.cs
+C:\Users\live_\source\repos\Clases\Clases\obj\Debug\netcoreapp3.1\Clases.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\Clases\Clases\obj\Debug\netcoreapp3.1\Clases.dll
+C:\Users\live_\source\repos\Clases\Clases\obj\Debug\netcoreapp3.1\Clases.pdb
+C:\Users\live_\source\repos\Clases\Clases\obj\Debug\netcoreapp3.1\Clases.genruntimeconfig.cache

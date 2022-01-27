@@ -1,0 +1,31 @@
+﻿@model Adoptame.Models.Mascota 
+@{
+    ViewData["Title"] = "Privacy Policy";
+    
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<section class="content jumbotron">
+    @using (Html.BeginForm("Privacy", "Home ", FormMethod.Post))
+    {
+        <div classs="form-group">
+            @Html.LabelFor(m => m.Nombre, "Nombre")
+            -@Html.TextBoxFor(m => m.Nombre, new { @class = "form-control", placeholder = "Nombre de la mascota" })
+        </div>
+        <div classs="form-group">
+            @Html.LabelFor(m => m.Edad, "Edad")
+            -@Html.TextBoxFor(m => m.Edad, new { @class = "form-control", placeholder = "Edad de la mascota" })
+        </div>
+        <div classs="form-group">
+            @Html.LabelFor(m => m.Descrip, "Descripcion")
+            -@Html.TextBoxFor(m => m.Descrip, new { @class = "form-control", placeholder = "Descripcion de la mascota" })
+        </div>
+        <div classs="form-group">
+            @Html.LabelFor(m => m.CorreoContacto, "Correo")
+            -@Html.TextBoxFor(m => m.CorreoContacto, new { @class = "form-control", placeholder = "Correo de contacto" })
+        </div>
+        <input type="submit" class="btn btn-primary " value=" Enviar"/>
+    }
+
+</section>

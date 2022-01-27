@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\Aprender\Aprender\bin\Debug\netcoreapp3.1\Aprender.exe
+C:\Users\live_\source\repos\Aprender\Aprender\bin\Debug\netcoreapp3.1\Aprender.deps.json
+C:\Users\live_\source\repos\Aprender\Aprender\bin\Debug\netcoreapp3.1\Aprender.runtimeconfig.json
+C:\Users\live_\source\repos\Aprender\Aprender\bin\Debug\netcoreapp3.1\Aprender.runtimeconfig.dev.json
+C:\Users\live_\source\repos\Aprender\Aprender\bin\Debug\netcoreapp3.1\Aprender.dll
+C:\Users\live_\source\repos\Aprender\Aprender\bin\Debug\netcoreapp3.1\Aprender.pdb
+C:\Users\live_\source\repos\Aprender\Aprender\obj\Debug\netcoreapp3.1\Aprender.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\Aprender\Aprender\obj\Debug\netcoreapp3.1\Aprender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\Aprender\Aprender\obj\Debug\netcoreapp3.1\Aprender.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\Aprender\Aprender\obj\Debug\netcoreapp3.1\Aprender.AssemblyInfo.cs
+C:\Users\live_\source\repos\Aprender\Aprender\obj\Debug\netcoreapp3.1\Aprender.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\Aprender\Aprender\obj\Debug\netcoreapp3.1\Aprender.dll
+C:\Users\live_\source\repos\Aprender\Aprender\obj\Debug\netcoreapp3.1\Aprender.pdb
+C:\Users\live_\source\repos\Aprender\Aprender\obj\Debug\netcoreapp3.1\Aprender.genruntimeconfig.cache

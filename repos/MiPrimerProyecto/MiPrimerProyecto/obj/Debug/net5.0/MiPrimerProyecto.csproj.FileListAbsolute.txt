@@ -1,0 +1,16 @@
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net5.0\MiPrimerProyecto.exe
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net5.0\MiPrimerProyecto.deps.json
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net5.0\MiPrimerProyecto.runtimeconfig.json
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net5.0\MiPrimerProyecto.runtimeconfig.dev.json
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net5.0\MiPrimerProyecto.dll
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net5.0\ref\MiPrimerProyecto.dll
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net5.0\MiPrimerProyecto.pdb
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\MiPrimerProyecto.dll
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\ref\MiPrimerProyecto.dll
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\MiPrimerProyecto.pdb
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net5.0\MiPrimerProyecto.genruntimeconfig.cache

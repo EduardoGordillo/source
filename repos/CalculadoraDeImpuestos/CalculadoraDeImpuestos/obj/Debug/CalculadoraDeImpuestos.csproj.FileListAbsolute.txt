@@ -1,0 +1,2 @@
+C:\Users\live_\source\repos\CalculadoraDeImpuestos\CalculadoraDeImpuestos\obj\Debug\CalculadoraDeImpuestos.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\CalculadoraDeImpuestos\CalculadoraDeImpuestos\obj\Debug\CalculadoraDeImpuestos.csproj.CoreCompileInputs.cache

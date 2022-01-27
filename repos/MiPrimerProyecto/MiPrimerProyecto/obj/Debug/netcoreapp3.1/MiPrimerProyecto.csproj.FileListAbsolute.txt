@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.exe
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.deps.json
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.runtimeconfig.json
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.runtimeconfig.dev.json
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.dll
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.pdb
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.dll
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.pdb
+C:\Users\live_\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.genruntimeconfig.cache

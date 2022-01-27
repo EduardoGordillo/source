@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\obj\Release\netcoreapp3.1\MiEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\obj\Release\netcoreapp3.1\MiEscuela.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\obj\Release\netcoreapp3.1\MiEscuela.AssemblyInfo.cs
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\obj\Release\netcoreapp3.1\MiEscuela.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\bin\Release\netcoreapp3.1\MiEscuela.exe
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\bin\Release\netcoreapp3.1\MiEscuela.deps.json
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\bin\Release\netcoreapp3.1\MiEscuela.runtimeconfig.json
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\bin\Release\netcoreapp3.1\MiEscuela.runtimeconfig.dev.json
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\bin\Release\netcoreapp3.1\MiEscuela.dll
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\bin\Release\netcoreapp3.1\MiEscuela.pdb
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\obj\Release\netcoreapp3.1\MiEscuela.dll
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\obj\Release\netcoreapp3.1\MiEscuela.pdb
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\obj\Release\netcoreapp3.1\MiEscuela.genruntimeconfig.cache
+C:\Users\live_\source\repos\MiEscuela\MiEscuela\obj\Release\netcoreapp3.1\MiEscuela.csproj.AssemblyReference.cache

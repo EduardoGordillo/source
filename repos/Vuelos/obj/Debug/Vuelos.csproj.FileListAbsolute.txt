@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\Vuelos\bin\Debug\Vuelos.exe.config
+C:\Users\live_\source\repos\Vuelos\bin\Debug\Vuelos.exe
+C:\Users\live_\source\repos\Vuelos\bin\Debug\Vuelos.pdb
+C:\Users\live_\source\repos\Vuelos\obj\Debug\Vuelos.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\Vuelos\obj\Debug\Vuelos.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\Vuelos\obj\Debug\Vuelos.exe
+C:\Users\live_\source\repos\Vuelos\obj\Debug\Vuelos.pdb
