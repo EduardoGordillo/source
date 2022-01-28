@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\PracticaEventosEd\bin\Debug\netcoreapp3.1\PracticaEventosEd.exe
+C:\Users\live_\source\repos\PracticaEventosEd\bin\Debug\netcoreapp3.1\PracticaEventosEd.deps.json
+C:\Users\live_\source\repos\PracticaEventosEd\bin\Debug\netcoreapp3.1\PracticaEventosEd.runtimeconfig.json
+C:\Users\live_\source\repos\PracticaEventosEd\bin\Debug\netcoreapp3.1\PracticaEventosEd.runtimeconfig.dev.json
+C:\Users\live_\source\repos\PracticaEventosEd\bin\Debug\netcoreapp3.1\PracticaEventosEd.dll
+C:\Users\live_\source\repos\PracticaEventosEd\bin\Debug\netcoreapp3.1\PracticaEventosEd.pdb
+C:\Users\live_\source\repos\PracticaEventosEd\obj\Debug\netcoreapp3.1\PracticaEventosEd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\PracticaEventosEd\obj\Debug\netcoreapp3.1\PracticaEventosEd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\PracticaEventosEd\obj\Debug\netcoreapp3.1\PracticaEventosEd.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\PracticaEventosEd\obj\Debug\netcoreapp3.1\PracticaEventosEd.AssemblyInfo.cs
+C:\Users\live_\source\repos\PracticaEventosEd\obj\Debug\netcoreapp3.1\PracticaEventosEd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\PracticaEventosEd\obj\Debug\netcoreapp3.1\PracticaEventosEd.dll
+C:\Users\live_\source\repos\PracticaEventosEd\obj\Debug\netcoreapp3.1\PracticaEventosEd.pdb
+C:\Users\live_\source\repos\PracticaEventosEd\obj\Debug\netcoreapp3.1\PracticaEventosEd.genruntimeconfig.cache
