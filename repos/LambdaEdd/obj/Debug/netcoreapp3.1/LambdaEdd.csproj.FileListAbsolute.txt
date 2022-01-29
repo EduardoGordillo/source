@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\LambdaEdd\obj\Debug\netcoreapp3.1\LambdaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\LambdaEdd\obj\Debug\netcoreapp3.1\LambdaEdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\LambdaEdd\obj\Debug\netcoreapp3.1\LambdaEdd.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\LambdaEdd\obj\Debug\netcoreapp3.1\LambdaEdd.AssemblyInfo.cs
+C:\Users\live_\source\repos\LambdaEdd\obj\Debug\netcoreapp3.1\LambdaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\LambdaEdd\bin\Debug\netcoreapp3.1\LambdaEdd.exe
+C:\Users\live_\source\repos\LambdaEdd\bin\Debug\netcoreapp3.1\LambdaEdd.deps.json
+C:\Users\live_\source\repos\LambdaEdd\bin\Debug\netcoreapp3.1\LambdaEdd.runtimeconfig.json
+C:\Users\live_\source\repos\LambdaEdd\bin\Debug\netcoreapp3.1\LambdaEdd.runtimeconfig.dev.json
+C:\Users\live_\source\repos\LambdaEdd\bin\Debug\netcoreapp3.1\LambdaEdd.dll
+C:\Users\live_\source\repos\LambdaEdd\bin\Debug\netcoreapp3.1\LambdaEdd.pdb
+C:\Users\live_\source\repos\LambdaEdd\obj\Debug\netcoreapp3.1\LambdaEdd.dll
+C:\Users\live_\source\repos\LambdaEdd\obj\Debug\netcoreapp3.1\LambdaEdd.pdb
+C:\Users\live_\source\repos\LambdaEdd\obj\Debug\netcoreapp3.1\LambdaEdd.genruntimeconfig.cache

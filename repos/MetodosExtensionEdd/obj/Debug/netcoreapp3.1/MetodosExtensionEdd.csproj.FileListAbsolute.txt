@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\MetodosExtensionEdd\bin\Debug\netcoreapp3.1\MetodosExtensionEdd.exe
+C:\Users\live_\source\repos\MetodosExtensionEdd\bin\Debug\netcoreapp3.1\MetodosExtensionEdd.deps.json
+C:\Users\live_\source\repos\MetodosExtensionEdd\bin\Debug\netcoreapp3.1\MetodosExtensionEdd.runtimeconfig.json
+C:\Users\live_\source\repos\MetodosExtensionEdd\bin\Debug\netcoreapp3.1\MetodosExtensionEdd.runtimeconfig.dev.json
+C:\Users\live_\source\repos\MetodosExtensionEdd\bin\Debug\netcoreapp3.1\MetodosExtensionEdd.dll
+C:\Users\live_\source\repos\MetodosExtensionEdd\bin\Debug\netcoreapp3.1\MetodosExtensionEdd.pdb
+C:\Users\live_\source\repos\MetodosExtensionEdd\obj\Debug\netcoreapp3.1\MetodosExtensionEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\MetodosExtensionEdd\obj\Debug\netcoreapp3.1\MetodosExtensionEdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\MetodosExtensionEdd\obj\Debug\netcoreapp3.1\MetodosExtensionEdd.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\MetodosExtensionEdd\obj\Debug\netcoreapp3.1\MetodosExtensionEdd.AssemblyInfo.cs
+C:\Users\live_\source\repos\MetodosExtensionEdd\obj\Debug\netcoreapp3.1\MetodosExtensionEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\MetodosExtensionEdd\obj\Debug\netcoreapp3.1\MetodosExtensionEdd.dll
+C:\Users\live_\source\repos\MetodosExtensionEdd\obj\Debug\netcoreapp3.1\MetodosExtensionEdd.pdb
+C:\Users\live_\source\repos\MetodosExtensionEdd\obj\Debug\netcoreapp3.1\MetodosExtensionEdd.genruntimeconfig.cache

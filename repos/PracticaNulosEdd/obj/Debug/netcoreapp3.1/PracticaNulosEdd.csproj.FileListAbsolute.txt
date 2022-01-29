@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\PracticaNulosEdd\bin\Debug\netcoreapp3.1\PracticaNulosEdd.exe
+C:\Users\live_\source\repos\PracticaNulosEdd\bin\Debug\netcoreapp3.1\PracticaNulosEdd.deps.json
+C:\Users\live_\source\repos\PracticaNulosEdd\bin\Debug\netcoreapp3.1\PracticaNulosEdd.runtimeconfig.json
+C:\Users\live_\source\repos\PracticaNulosEdd\bin\Debug\netcoreapp3.1\PracticaNulosEdd.runtimeconfig.dev.json
+C:\Users\live_\source\repos\PracticaNulosEdd\bin\Debug\netcoreapp3.1\PracticaNulosEdd.dll
+C:\Users\live_\source\repos\PracticaNulosEdd\bin\Debug\netcoreapp3.1\PracticaNulosEdd.pdb
+C:\Users\live_\source\repos\PracticaNulosEdd\obj\Debug\netcoreapp3.1\PracticaNulosEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\PracticaNulosEdd\obj\Debug\netcoreapp3.1\PracticaNulosEdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\PracticaNulosEdd\obj\Debug\netcoreapp3.1\PracticaNulosEdd.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\PracticaNulosEdd\obj\Debug\netcoreapp3.1\PracticaNulosEdd.AssemblyInfo.cs
+C:\Users\live_\source\repos\PracticaNulosEdd\obj\Debug\netcoreapp3.1\PracticaNulosEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\PracticaNulosEdd\obj\Debug\netcoreapp3.1\PracticaNulosEdd.dll
+C:\Users\live_\source\repos\PracticaNulosEdd\obj\Debug\netcoreapp3.1\PracticaNulosEdd.pdb
+C:\Users\live_\source\repos\PracticaNulosEdd\obj\Debug\netcoreapp3.1\PracticaNulosEdd.genruntimeconfig.cache

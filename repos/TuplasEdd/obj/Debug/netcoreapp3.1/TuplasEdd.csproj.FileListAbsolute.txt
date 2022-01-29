@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\TuplasEdd\obj\Debug\netcoreapp3.1\TuplasEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\TuplasEdd\obj\Debug\netcoreapp3.1\TuplasEdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\TuplasEdd\obj\Debug\netcoreapp3.1\TuplasEdd.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\TuplasEdd\obj\Debug\netcoreapp3.1\TuplasEdd.AssemblyInfo.cs
+C:\Users\live_\source\repos\TuplasEdd\obj\Debug\netcoreapp3.1\TuplasEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\TuplasEdd\bin\Debug\netcoreapp3.1\TuplasEdd.exe
+C:\Users\live_\source\repos\TuplasEdd\bin\Debug\netcoreapp3.1\TuplasEdd.deps.json
+C:\Users\live_\source\repos\TuplasEdd\bin\Debug\netcoreapp3.1\TuplasEdd.runtimeconfig.json
+C:\Users\live_\source\repos\TuplasEdd\bin\Debug\netcoreapp3.1\TuplasEdd.runtimeconfig.dev.json
+C:\Users\live_\source\repos\TuplasEdd\bin\Debug\netcoreapp3.1\TuplasEdd.dll
+C:\Users\live_\source\repos\TuplasEdd\bin\Debug\netcoreapp3.1\TuplasEdd.pdb
+C:\Users\live_\source\repos\TuplasEdd\obj\Debug\netcoreapp3.1\TuplasEdd.dll
+C:\Users\live_\source\repos\TuplasEdd\obj\Debug\netcoreapp3.1\TuplasEdd.pdb
+C:\Users\live_\source\repos\TuplasEdd\obj\Debug\netcoreapp3.1\TuplasEdd.genruntimeconfig.cache

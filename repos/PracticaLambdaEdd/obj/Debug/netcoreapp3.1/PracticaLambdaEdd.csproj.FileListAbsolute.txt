@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\PracticaLambdaEdd\bin\Debug\netcoreapp3.1\PracticaLambdaEdd.exe
+C:\Users\live_\source\repos\PracticaLambdaEdd\bin\Debug\netcoreapp3.1\PracticaLambdaEdd.deps.json
+C:\Users\live_\source\repos\PracticaLambdaEdd\bin\Debug\netcoreapp3.1\PracticaLambdaEdd.runtimeconfig.json
+C:\Users\live_\source\repos\PracticaLambdaEdd\bin\Debug\netcoreapp3.1\PracticaLambdaEdd.runtimeconfig.dev.json
+C:\Users\live_\source\repos\PracticaLambdaEdd\bin\Debug\netcoreapp3.1\PracticaLambdaEdd.dll
+C:\Users\live_\source\repos\PracticaLambdaEdd\bin\Debug\netcoreapp3.1\PracticaLambdaEdd.pdb
+C:\Users\live_\source\repos\PracticaLambdaEdd\obj\Debug\netcoreapp3.1\PracticaLambdaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\PracticaLambdaEdd\obj\Debug\netcoreapp3.1\PracticaLambdaEdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\PracticaLambdaEdd\obj\Debug\netcoreapp3.1\PracticaLambdaEdd.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\PracticaLambdaEdd\obj\Debug\netcoreapp3.1\PracticaLambdaEdd.AssemblyInfo.cs
+C:\Users\live_\source\repos\PracticaLambdaEdd\obj\Debug\netcoreapp3.1\PracticaLambdaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\PracticaLambdaEdd\obj\Debug\netcoreapp3.1\PracticaLambdaEdd.dll
+C:\Users\live_\source\repos\PracticaLambdaEdd\obj\Debug\netcoreapp3.1\PracticaLambdaEdd.pdb
+C:\Users\live_\source\repos\PracticaLambdaEdd\obj\Debug\netcoreapp3.1\PracticaLambdaEdd.genruntimeconfig.cache
