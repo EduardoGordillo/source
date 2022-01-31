@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\Tipaje\bin\Debug\netcoreapp3.1\Tipaje.exe
+C:\Users\live_\source\repos\Tipaje\bin\Debug\netcoreapp3.1\Tipaje.deps.json
+C:\Users\live_\source\repos\Tipaje\bin\Debug\netcoreapp3.1\Tipaje.runtimeconfig.json
+C:\Users\live_\source\repos\Tipaje\bin\Debug\netcoreapp3.1\Tipaje.runtimeconfig.dev.json
+C:\Users\live_\source\repos\Tipaje\bin\Debug\netcoreapp3.1\Tipaje.dll
+C:\Users\live_\source\repos\Tipaje\bin\Debug\netcoreapp3.1\Tipaje.pdb
+C:\Users\live_\source\repos\Tipaje\obj\Debug\netcoreapp3.1\Tipaje.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\Tipaje\obj\Debug\netcoreapp3.1\Tipaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\Tipaje\obj\Debug\netcoreapp3.1\Tipaje.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\Tipaje\obj\Debug\netcoreapp3.1\Tipaje.AssemblyInfo.cs
+C:\Users\live_\source\repos\Tipaje\obj\Debug\netcoreapp3.1\Tipaje.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\Tipaje\obj\Debug\netcoreapp3.1\Tipaje.dll
+C:\Users\live_\source\repos\Tipaje\obj\Debug\netcoreapp3.1\Tipaje.pdb
+C:\Users\live_\source\repos\Tipaje\obj\Debug\netcoreapp3.1\Tipaje.genruntimeconfig.cache

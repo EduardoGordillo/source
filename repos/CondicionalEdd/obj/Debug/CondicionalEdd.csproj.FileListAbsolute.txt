@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\CondicionalEdd\bin\Debug\CondicionalEdd.exe.config
+C:\Users\live_\source\repos\CondicionalEdd\bin\Debug\CondicionalEdd.exe
+C:\Users\live_\source\repos\CondicionalEdd\bin\Debug\CondicionalEdd.pdb
+C:\Users\live_\source\repos\CondicionalEdd\obj\Debug\CondicionalEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\CondicionalEdd\obj\Debug\CondicionalEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\CondicionalEdd\obj\Debug\CondicionalEdd.exe
+C:\Users\live_\source\repos\CondicionalEdd\obj\Debug\CondicionalEdd.pdb

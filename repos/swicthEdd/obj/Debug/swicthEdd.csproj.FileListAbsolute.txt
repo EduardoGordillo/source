@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\swicthEdd\bin\Debug\swicthEdd.exe.config
+C:\Users\live_\source\repos\swicthEdd\bin\Debug\swicthEdd.exe
+C:\Users\live_\source\repos\swicthEdd\bin\Debug\swicthEdd.pdb
+C:\Users\live_\source\repos\swicthEdd\obj\Debug\swicthEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\swicthEdd\obj\Debug\swicthEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\swicthEdd\obj\Debug\swicthEdd.exe
+C:\Users\live_\source\repos\swicthEdd\obj\Debug\swicthEdd.pdb

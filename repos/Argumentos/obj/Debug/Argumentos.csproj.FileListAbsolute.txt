@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\Argumentos\bin\Debug\Argumentos.exe.config
+C:\Users\live_\source\repos\Argumentos\bin\Debug\Argumentos.exe
+C:\Users\live_\source\repos\Argumentos\bin\Debug\Argumentos.pdb
+C:\Users\live_\source\repos\Argumentos\obj\Debug\Argumentos.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\Argumentos\obj\Debug\Argumentos.exe
+C:\Users\live_\source\repos\Argumentos\obj\Debug\Argumentos.pdb

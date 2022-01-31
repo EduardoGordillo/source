@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\MetodosDemo\bin\Debug\MetodosDemo.exe.config
+C:\Users\live_\source\repos\MetodosDemo\bin\Debug\MetodosDemo.exe
+C:\Users\live_\source\repos\MetodosDemo\bin\Debug\MetodosDemo.pdb
+C:\Users\live_\source\repos\MetodosDemo\obj\Debug\MetodosDemo.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\MetodosDemo\obj\Debug\MetodosDemo.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\MetodosDemo\obj\Debug\MetodosDemo.exe
+C:\Users\live_\source\repos\MetodosDemo\obj\Debug\MetodosDemo.pdb

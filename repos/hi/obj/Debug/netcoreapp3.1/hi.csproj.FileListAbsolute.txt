@@ -1,0 +1,14 @@
+C:\Users\live_\source\repos\hi\bin\Debug\netcoreapp3.1\hi.exe
+C:\Users\live_\source\repos\hi\bin\Debug\netcoreapp3.1\hi.deps.json
+C:\Users\live_\source\repos\hi\bin\Debug\netcoreapp3.1\hi.runtimeconfig.json
+C:\Users\live_\source\repos\hi\bin\Debug\netcoreapp3.1\hi.runtimeconfig.dev.json
+C:\Users\live_\source\repos\hi\bin\Debug\netcoreapp3.1\hi.dll
+C:\Users\live_\source\repos\hi\bin\Debug\netcoreapp3.1\hi.pdb
+C:\Users\live_\source\repos\hi\obj\Debug\netcoreapp3.1\hi.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\hi\obj\Debug\netcoreapp3.1\hi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\hi\obj\Debug\netcoreapp3.1\hi.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\hi\obj\Debug\netcoreapp3.1\hi.AssemblyInfo.cs
+C:\Users\live_\source\repos\hi\obj\Debug\netcoreapp3.1\hi.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\hi\obj\Debug\netcoreapp3.1\hi.dll
+C:\Users\live_\source\repos\hi\obj\Debug\netcoreapp3.1\hi.pdb
+C:\Users\live_\source\repos\hi\obj\Debug\netcoreapp3.1\hi.genruntimeconfig.cache
