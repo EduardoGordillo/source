@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\WhileEdd\bin\Debug\WhileEdd.exe.config
+C:\Users\live_\source\repos\WhileEdd\bin\Debug\WhileEdd.exe
+C:\Users\live_\source\repos\WhileEdd\bin\Debug\WhileEdd.pdb
+C:\Users\live_\source\repos\WhileEdd\obj\Debug\WhileEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\WhileEdd\obj\Debug\WhileEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\WhileEdd\obj\Debug\WhileEdd.exe
+C:\Users\live_\source\repos\WhileEdd\obj\Debug\WhileEdd.pdb

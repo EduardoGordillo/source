@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\ForEdd\bin\Debug\ForEdd.exe.config
+C:\Users\live_\source\repos\ForEdd\bin\Debug\ForEdd.exe
+C:\Users\live_\source\repos\ForEdd\bin\Debug\ForEdd.pdb
+C:\Users\live_\source\repos\ForEdd\obj\Debug\ForEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\ForEdd\obj\Debug\ForEdd.exe
+C:\Users\live_\source\repos\ForEdd\obj\Debug\ForEdd.pdb

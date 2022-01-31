@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\OperadorAsignacion\bin\Debug\OperadorAsignacion.exe.config
+C:\Users\live_\source\repos\OperadorAsignacion\bin\Debug\OperadorAsignacion.exe
+C:\Users\live_\source\repos\OperadorAsignacion\bin\Debug\OperadorAsignacion.pdb
+C:\Users\live_\source\repos\OperadorAsignacion\obj\Debug\OperadorAsignacion.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\OperadorAsignacion\obj\Debug\OperadorAsignacion.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\OperadorAsignacion\obj\Debug\OperadorAsignacion.exe
+C:\Users\live_\source\repos\OperadorAsignacion\obj\Debug\OperadorAsignacion.pdb
