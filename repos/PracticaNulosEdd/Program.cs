@@ -18,7 +18,7 @@ namespace PracticaNulosEdd
 
             int? g = null;
             int h = g ?? 1;
-            Console.WriteLine(h.ToString());
+            Console.WriteLine(h.ToString("null"));
             Console.WriteLine(g.GetValueOrDefault());
 
            /* bool mayor = x > y;

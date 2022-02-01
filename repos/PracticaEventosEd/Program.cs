@@ -6,7 +6,9 @@ namespace PracticaEventosEd
 {
     Error = 1,
     Advertencia = 2,
-    Exito = 3
+    Exito = 3,
+    
+
 }
 
 public enum TipoPago

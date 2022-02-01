@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\Programa06_01\bin\Debug\Programa06_01.exe.config
+C:\Users\live_\source\repos\Programa06_01\bin\Debug\Programa06_01.exe
+C:\Users\live_\source\repos\Programa06_01\bin\Debug\Programa06_01.pdb
+C:\Users\live_\source\repos\Programa06_01\obj\Debug\Programa06_01.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\Programa06_01\obj\Debug\Programa06_01.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\Programa06_01\obj\Debug\Programa06_01.exe
+C:\Users\live_\source\repos\Programa06_01\obj\Debug\Programa06_01.pdb
