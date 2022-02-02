@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\ConstructorEdd\bin\Debug\ConstructorEdd.exe.config
+C:\Users\live_\source\repos\ConstructorEdd\bin\Debug\ConstructorEdd.exe
+C:\Users\live_\source\repos\ConstructorEdd\bin\Debug\ConstructorEdd.pdb
+C:\Users\live_\source\repos\ConstructorEdd\obj\Debug\ConstructorEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\ConstructorEdd\obj\Debug\ConstructorEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\ConstructorEdd\obj\Debug\ConstructorEdd.exe
+C:\Users\live_\source\repos\ConstructorEdd\obj\Debug\ConstructorEdd.pdb

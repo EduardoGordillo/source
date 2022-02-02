@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Programa01_02
+namespace Programa02_01
 {
     class CMiclase
     {

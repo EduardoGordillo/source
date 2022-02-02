@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\SobrecargaEdd\obj\Debug\SobrecargaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\SobrecargaEdd\obj\Debug\SobrecargaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\SobrecargaEdd\bin\Debug\SobrecargaEdd.exe.config
+C:\Users\live_\source\repos\SobrecargaEdd\bin\Debug\SobrecargaEdd.exe
+C:\Users\live_\source\repos\SobrecargaEdd\bin\Debug\SobrecargaEdd.pdb
+C:\Users\live_\source\repos\SobrecargaEdd\obj\Debug\SobrecargaEdd.exe
+C:\Users\live_\source\repos\SobrecargaEdd\obj\Debug\SobrecargaEdd.pdb

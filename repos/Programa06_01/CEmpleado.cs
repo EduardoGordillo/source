@@ -21,10 +21,11 @@ namespace Programa06_01
 
             }
             else
-
-                return impuesto;
+               
+                return impuesto; 
         }
-        public void Muestra()
+
+        public void Muestra( )
         {
             Console.WriteLine("Sueldo = {0} Impuesto = {1}", sueldo, impuesto);;
         }
@@ -48,12 +49,13 @@ namespace Programa06_01
 
             }
             else
+                CalculaImpuesto();
                 return sueldo;
         }
       
         public void CalculaImpuesto()
         {
-            impuesto = sueldo * .016;
+            impuesto = sueldo * .16;
         }
         private void LogError (string pError)
         {
