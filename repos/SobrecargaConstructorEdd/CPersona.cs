@@ -51,7 +51,7 @@ namespace SobrecargaConstructorEdd
         }
         ~CPersona()
         {
-            Console.WriteLine("adios desce {0}", nombre);
+            Console.WriteLine("adios desde {0}", nombre);
             Console.ReadLine();
             nombre = "";
             edad = 0;

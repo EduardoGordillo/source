@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\ConstructorHerenciaEdd\bin\Debug\ConstructorHerenciaEdd.exe.config
+C:\Users\live_\source\repos\ConstructorHerenciaEdd\bin\Debug\ConstructorHerenciaEdd.exe
+C:\Users\live_\source\repos\ConstructorHerenciaEdd\bin\Debug\ConstructorHerenciaEdd.pdb
+C:\Users\live_\source\repos\ConstructorHerenciaEdd\obj\Debug\ConstructorHerenciaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\ConstructorHerenciaEdd\obj\Debug\ConstructorHerenciaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\ConstructorHerenciaEdd\obj\Debug\ConstructorHerenciaEdd.exe
+C:\Users\live_\source\repos\ConstructorHerenciaEdd\obj\Debug\ConstructorHerenciaEdd.pdb

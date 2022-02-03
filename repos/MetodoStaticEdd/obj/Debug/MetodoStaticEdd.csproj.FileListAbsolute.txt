@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\MetodoStaticEdd\bin\Debug\MetodoStaticEdd.exe.config
+C:\Users\live_\source\repos\MetodoStaticEdd\bin\Debug\MetodoStaticEdd.exe
+C:\Users\live_\source\repos\MetodoStaticEdd\bin\Debug\MetodoStaticEdd.pdb
+C:\Users\live_\source\repos\MetodoStaticEdd\obj\Debug\MetodoStaticEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\MetodoStaticEdd\obj\Debug\MetodoStaticEdd.exe
+C:\Users\live_\source\repos\MetodoStaticEdd\obj\Debug\MetodoStaticEdd.pdb
+C:\Users\live_\source\repos\MetodoStaticEdd\obj\Debug\MetodoStaticEdd.csproj.AssemblyReference.cache

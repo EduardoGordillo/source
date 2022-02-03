@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\ProtectedEdd\obj\Debug\ProtectedEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\ProtectedEdd\obj\Debug\ProtectedEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\ProtectedEdd\bin\Debug\ProtectedEdd.exe.config
+C:\Users\live_\source\repos\ProtectedEdd\bin\Debug\ProtectedEdd.exe
+C:\Users\live_\source\repos\ProtectedEdd\bin\Debug\ProtectedEdd.pdb
+C:\Users\live_\source\repos\ProtectedEdd\obj\Debug\ProtectedEdd.exe
+C:\Users\live_\source\repos\ProtectedEdd\obj\Debug\ProtectedEdd.pdb

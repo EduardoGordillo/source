@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\StaticEdd\bin\Debug\StaticEdd.exe.config
+C:\Users\live_\source\repos\StaticEdd\bin\Debug\StaticEdd.exe
+C:\Users\live_\source\repos\StaticEdd\bin\Debug\StaticEdd.pdb
+C:\Users\live_\source\repos\StaticEdd\obj\Debug\StaticEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\StaticEdd\obj\Debug\StaticEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\StaticEdd\obj\Debug\StaticEdd.exe
+C:\Users\live_\source\repos\StaticEdd\obj\Debug\StaticEdd.pdb
