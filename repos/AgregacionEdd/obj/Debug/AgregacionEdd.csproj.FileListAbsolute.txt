@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\AgregacionEdd\obj\Debug\AgregacionEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\AgregacionEdd\obj\Debug\AgregacionEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\AgregacionEdd\bin\Debug\AgregacionEdd.exe.config
+C:\Users\live_\source\repos\AgregacionEdd\bin\Debug\AgregacionEdd.exe
+C:\Users\live_\source\repos\AgregacionEdd\bin\Debug\AgregacionEdd.pdb
+C:\Users\live_\source\repos\AgregacionEdd\obj\Debug\AgregacionEdd.exe
+C:\Users\live_\source\repos\AgregacionEdd\obj\Debug\AgregacionEdd.pdb

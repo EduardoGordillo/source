@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\AbstracEdd\bin\Debug\AbstracEdd.exe.config
+C:\Users\live_\source\repos\AbstracEdd\bin\Debug\AbstracEdd.exe
+C:\Users\live_\source\repos\AbstracEdd\bin\Debug\AbstracEdd.pdb
+C:\Users\live_\source\repos\AbstracEdd\obj\Debug\AbstractEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\AbstracEdd\obj\Debug\AbstractEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\AbstracEdd\obj\Debug\AbstracEdd.exe
+C:\Users\live_\source\repos\AbstracEdd\obj\Debug\AbstracEdd.pdb

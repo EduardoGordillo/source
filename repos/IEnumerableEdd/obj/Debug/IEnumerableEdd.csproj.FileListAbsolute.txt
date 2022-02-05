@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\IEnumerableEdd\bin\Debug\IEnumerableEdd.exe.config
+C:\Users\live_\source\repos\IEnumerableEdd\bin\Debug\IEnumerableEdd.exe
+C:\Users\live_\source\repos\IEnumerableEdd\bin\Debug\IEnumerableEdd.pdb
+C:\Users\live_\source\repos\IEnumerableEdd\obj\Debug\IEnumerableEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\IEnumerableEdd\obj\Debug\IEnumerableEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\IEnumerableEdd\obj\Debug\IEnumerableEdd.exe
+C:\Users\live_\source\repos\IEnumerableEdd\obj\Debug\IEnumerableEdd.pdb

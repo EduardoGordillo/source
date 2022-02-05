@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\CastingEdd\obj\Debug\CastingEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\CastingEdd\bin\Debug\CastingEdd.exe.config
+C:\Users\live_\source\repos\CastingEdd\bin\Debug\CastingEdd.exe
+C:\Users\live_\source\repos\CastingEdd\bin\Debug\CastingEdd.pdb
+C:\Users\live_\source\repos\CastingEdd\obj\Debug\CastingEdd.exe
+C:\Users\live_\source\repos\CastingEdd\obj\Debug\CastingEdd.pdb
+C:\Users\live_\source\repos\CastingEdd\obj\Debug\CastingEdd.csproj.AssemblyReference.cache

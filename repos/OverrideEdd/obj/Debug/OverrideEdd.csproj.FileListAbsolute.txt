@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\OverrideEdd\bin\Debug\OverrideEdd.exe.config
+C:\Users\live_\source\repos\OverrideEdd\bin\Debug\OverrideEdd.exe
+C:\Users\live_\source\repos\OverrideEdd\bin\Debug\OverrideEdd.pdb
+C:\Users\live_\source\repos\OverrideEdd\obj\Debug\OverrideEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\OverrideEdd\obj\Debug\OverrideEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\OverrideEdd\obj\Debug\OverrideEdd.exe
+C:\Users\live_\source\repos\OverrideEdd\obj\Debug\OverrideEdd.pdb

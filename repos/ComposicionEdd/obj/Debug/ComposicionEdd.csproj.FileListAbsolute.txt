@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\ComposicionEdd\bin\Debug\ComposicionEdd.exe.config
+C:\Users\live_\source\repos\ComposicionEdd\bin\Debug\ComposicionEdd.exe
+C:\Users\live_\source\repos\ComposicionEdd\bin\Debug\ComposicionEdd.pdb
+C:\Users\live_\source\repos\ComposicionEdd\obj\Debug\ComposicionEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\ComposicionEdd\obj\Debug\ComposicionEdd.exe
+C:\Users\live_\source\repos\ComposicionEdd\obj\Debug\ComposicionEdd.pdb

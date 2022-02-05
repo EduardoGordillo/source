@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\MetodoNewEdd\bin\Debug\MetodoNewEdd.exe.config
+C:\Users\live_\source\repos\MetodoNewEdd\bin\Debug\MetodoNewEdd.exe
+C:\Users\live_\source\repos\MetodoNewEdd\bin\Debug\MetodoNewEdd.pdb
+C:\Users\live_\source\repos\MetodoNewEdd\obj\Debug\MetodoNewEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\MetodoNewEdd\obj\Debug\MetodoNewEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\MetodoNewEdd\obj\Debug\MetodoNewEdd.exe
+C:\Users\live_\source\repos\MetodoNewEdd\obj\Debug\MetodoNewEdd.pdb
