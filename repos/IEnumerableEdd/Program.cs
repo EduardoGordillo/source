@@ -25,7 +25,7 @@ namespace IEnumerableEdd
             ///foreach es un iterador (no ciclo) que recorre todos los elementos de una estructura de datos.
 
             CTiendaAuto tienda = new CTiendaAuto();
-            foreach(CAuto miAuto in tienda)
+            foreach(CAuto miAuto in tienda)// type cast de CAuto y recorre cada elemento que este de CAuto en CtiendaAuto
             {
                 miAuto.CalcularTenencia(.05);
                 miAuto.MuestraInformacion();

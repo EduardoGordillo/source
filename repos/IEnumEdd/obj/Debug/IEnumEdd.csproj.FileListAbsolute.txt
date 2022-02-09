@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\IEnumEdd\bin\Debug\IEnumEdd.exe.config
+C:\Users\live_\source\repos\IEnumEdd\bin\Debug\IEnumEdd.exe
+C:\Users\live_\source\repos\IEnumEdd\bin\Debug\IEnumEdd.pdb
+C:\Users\live_\source\repos\IEnumEdd\obj\Debug\IEnumEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\IEnumEdd\obj\Debug\IEnumEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\IEnumEdd\obj\Debug\IEnumEdd.exe
+C:\Users\live_\source\repos\IEnumEdd\obj\Debug\IEnumEdd.pdb

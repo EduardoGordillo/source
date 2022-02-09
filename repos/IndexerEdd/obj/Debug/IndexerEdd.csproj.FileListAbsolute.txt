@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\IndexerEdd\bin\Debug\IndexerEdd.exe.config
+C:\Users\live_\source\repos\IndexerEdd\bin\Debug\IndexerEdd.exe
+C:\Users\live_\source\repos\IndexerEdd\bin\Debug\IndexerEdd.pdb
+C:\Users\live_\source\repos\IndexerEdd\obj\Debug\IndexerEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\IndexerEdd\obj\Debug\IndexerEdd.exe
+C:\Users\live_\source\repos\IndexerEdd\obj\Debug\IndexerEdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\CallBackEdd\bin\Debug\CallBackEdd.exe.config
+C:\Users\live_\source\repos\CallBackEdd\bin\Debug\CallBackEdd.exe
+C:\Users\live_\source\repos\CallBackEdd\bin\Debug\CallBackEdd.pdb
+C:\Users\live_\source\repos\CallBackEdd\obj\Debug\CallBackEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\CallBackEdd\obj\Debug\CallBackEdd.exe
+C:\Users\live_\source\repos\CallBackEdd\obj\Debug\CallBackEdd.pdb
+C:\Users\live_\source\repos\CallBackEdd\obj\Debug\CallBackEdd.csproj.AssemblyReference.cache

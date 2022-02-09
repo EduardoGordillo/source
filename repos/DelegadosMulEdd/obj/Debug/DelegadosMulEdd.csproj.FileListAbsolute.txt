@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\DelegadosMulEdd\bin\Debug\DelegadosMulEdd.exe.config
+C:\Users\live_\source\repos\DelegadosMulEdd\bin\Debug\DelegadosMulEdd.exe
+C:\Users\live_\source\repos\DelegadosMulEdd\bin\Debug\DelegadosMulEdd.pdb
+C:\Users\live_\source\repos\DelegadosMulEdd\obj\Debug\DelegadosMulEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\DelegadosMulEdd\obj\Debug\DelegadosMulEdd.exe
+C:\Users\live_\source\repos\DelegadosMulEdd\obj\Debug\DelegadosMulEdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\DelegadosRefriEdd\bin\Debug\DelegadosRefriEdd.exe.config
+C:\Users\live_\source\repos\DelegadosRefriEdd\bin\Debug\DelegadosRefriEdd.exe
+C:\Users\live_\source\repos\DelegadosRefriEdd\bin\Debug\DelegadosRefriEdd.pdb
+C:\Users\live_\source\repos\DelegadosRefriEdd\obj\Debug\DelegadosRefriEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\DelegadosRefriEdd\obj\Debug\DelegadosRefriEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\DelegadosRefriEdd\obj\Debug\DelegadosRefriEdd.exe
+C:\Users\live_\source\repos\DelegadosRefriEdd\obj\Debug\DelegadosRefriEdd.pdb

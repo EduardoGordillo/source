@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\ICloneable\bin\Debug\ICloneable.exe.config
+C:\Users\live_\source\repos\ICloneable\bin\Debug\ICloneable.exe
+C:\Users\live_\source\repos\ICloneable\bin\Debug\ICloneable.pdb
+C:\Users\live_\source\repos\ICloneable\obj\Debug\ICloneable.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\ICloneable\obj\Debug\ICloneable.exe
+C:\Users\live_\source\repos\ICloneable\obj\Debug\ICloneable.pdb

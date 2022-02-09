@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\DelegadosEdd\bin\Debug\DelegadosEdd.exe.config
+C:\Users\live_\source\repos\DelegadosEdd\bin\Debug\DelegadosEdd.exe
+C:\Users\live_\source\repos\DelegadosEdd\bin\Debug\DelegadosEdd.pdb
+C:\Users\live_\source\repos\DelegadosEdd\obj\Debug\DelegadosEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\DelegadosEdd\obj\Debug\DelegadosEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\DelegadosEdd\obj\Debug\DelegadosEdd.exe
+C:\Users\live_\source\repos\DelegadosEdd\obj\Debug\DelegadosEdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\IComparableEdd\bin\Debug\IComparableEdd.exe.config
+C:\Users\live_\source\repos\IComparableEdd\bin\Debug\IComparableEdd.exe
+C:\Users\live_\source\repos\IComparableEdd\bin\Debug\IComparableEdd.pdb
+C:\Users\live_\source\repos\IComparableEdd\obj\Debug\IComparableEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\IComparableEdd\obj\Debug\IComparableEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\IComparableEdd\obj\Debug\IComparableEdd.exe
+C:\Users\live_\source\repos\IComparableEdd\obj\Debug\IComparableEdd.pdb
