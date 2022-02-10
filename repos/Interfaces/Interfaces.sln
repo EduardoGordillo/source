@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerEdd", "..\IndexerEdd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaBinariaEdd", "..\SobrecargaBinariaEdd\SobrecargaBinariaEdd.csproj", "{472AD7A6-5327-4074-BA4D-F8F3084D1190}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaUnuarioEdd", "..\SobrecargaUnuarioEdd\SobrecargaUnuarioEdd.csproj", "{AF2536D8-E57D-4F98-9F90-F06412D9AE2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{472AD7A6-5327-4074-BA4D-F8F3084D1190}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{472AD7A6-5327-4074-BA4D-F8F3084D1190}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{472AD7A6-5327-4074-BA4D-F8F3084D1190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2536D8-E57D-4F98-9F90-F06412D9AE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2536D8-E57D-4F98-9F90-F06412D9AE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2536D8-E57D-4F98-9F90-F06412D9AE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2536D8-E57D-4F98-9F90-F06412D9AE2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

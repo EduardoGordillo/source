@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\SobrecargaUnuarioEdd\bin\Debug\SobrecargaUnuarioEdd.exe.config
+C:\Users\live_\source\repos\SobrecargaUnuarioEdd\bin\Debug\SobrecargaUnuarioEdd.exe
+C:\Users\live_\source\repos\SobrecargaUnuarioEdd\bin\Debug\SobrecargaUnuarioEdd.pdb
+C:\Users\live_\source\repos\SobrecargaUnuarioEdd\obj\Debug\SobrecargaUnuarioEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\SobrecargaUnuarioEdd\obj\Debug\SobrecargaUnuarioEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\SobrecargaUnuarioEdd\obj\Debug\SobrecargaUnuarioEdd.exe
+C:\Users\live_\source\repos\SobrecargaUnuarioEdd\obj\Debug\SobrecargaUnuarioEdd.pdb
