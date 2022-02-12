@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SobrecargaUnuarioEdd
 {
-    class CImaginario
+    class CImaginario : IComparable
     {
         private double entero;
         private double imaginario;
@@ -56,6 +56,52 @@ namespace SobrecargaUnuarioEdd
                     return true;
             }
             return false;
+        }
+        public double magnitud ()
+        {
+            double m = 0;
+            m = Math.Sqrt((entero * entero) * (imaginario * imaginario));
+            return m;
+        }
+
+        public int CompareTo(object obj)
+        {
+            if (obj is CImaginario)
+            {
+                CImaginario temp = (CImaginario)obj;
+                if (magnitud() > temp.magnitud())
+                    return 1;
+                if (magnitud() < temp.magnitud())
+                    return -1;
+
+            }
+            return 0;
+        }
+
+        public override int GetHashCode()
+        {
+            int hashCode = 1801871858;
+            hashCode = hashCode * -1521134295 + entero.GetHashCode();
+            hashCode = hashCode * -1521134295 + imaginario.GetHashCode();
+            hashCode = hashCode * -1521134295 + Entero.GetHashCode();
+            hashCode = hashCode * -1521134295 + Imaginario.GetHashCode();
+            return hashCode;
+        }
+
+        public static bool operator <(CImaginario i1, CImaginario i2)
+        {
+            if (i1.CompareTo(i2) < 0)
+                return true;
+            else
+                return false;
+
+        }
+        public static bool operator  >(CImaginario i1, CImaginario i2)
+        {
+            if (i1.CompareTo(i2) > 0)
+                return true;
+            else
+                return false;
         }
 
         public static bool operator == (CImaginario i1, CImaginario i2)

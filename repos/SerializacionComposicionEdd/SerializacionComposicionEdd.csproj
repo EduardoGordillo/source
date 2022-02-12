@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{472AD7A6-5327-4074-BA4D-F8F3084D1190}</ProjectGuid>
+    <ProjectGuid>{C46F27BB-C1EC-44F0-AC31-73721562EA00}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SobrecargaBinariaEdd</RootNamespace>
-    <AssemblyName>SobrecargaBinariaEdd</AssemblyName>
+    <RootNamespace>SerializacionComposicionEdd</RootNamespace>
+    <AssemblyName>SerializacionComposicionEdd</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CImaginario.cs" />
+    <Compile Include="CAuto.cs" />
+    <Compile Include="CMotor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

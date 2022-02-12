@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{472AD7A6-5327-4074-BA4D-F8F3084D1190}</ProjectGuid>
+    <ProjectGuid>{A84F6456-884B-487D-A13F-65CD378A2D14}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SobrecargaBinariaEdd</RootNamespace>
-    <AssemblyName>SobrecargaBinariaEdd</AssemblyName>
+    <RootNamespace>SerializacionXMLEdd</RootNamespace>
+    <AssemblyName>SerializacionXMLEdd</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,7 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CImaginario.cs" />
+    <Compile Include="CAuto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

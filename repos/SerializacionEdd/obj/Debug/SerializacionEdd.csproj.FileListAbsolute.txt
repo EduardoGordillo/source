@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\SerializacionEdd\bin\Debug\SerializacionEdd.exe.config
+C:\Users\live_\source\repos\SerializacionEdd\bin\Debug\SerializacionEdd.exe
+C:\Users\live_\source\repos\SerializacionEdd\bin\Debug\SerializacionEdd.pdb
+C:\Users\live_\source\repos\SerializacionEdd\obj\Debug\SerializacionEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\SerializacionEdd\obj\Debug\SerializacionEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\SerializacionEdd\obj\Debug\SerializacionEdd.exe
+C:\Users\live_\source\repos\SerializacionEdd\obj\Debug\SerializacionEdd.pdb

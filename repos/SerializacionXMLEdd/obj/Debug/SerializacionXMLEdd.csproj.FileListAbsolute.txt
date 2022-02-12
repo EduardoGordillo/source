@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\SerializacionXMLEdd\obj\Debug\SerializacionXMLEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\SerializacionXMLEdd\bin\Debug\SerializacionXMLEdd.exe.config
+C:\Users\live_\source\repos\SerializacionXMLEdd\bin\Debug\SerializacionXMLEdd.exe
+C:\Users\live_\source\repos\SerializacionXMLEdd\bin\Debug\SerializacionXMLEdd.pdb
+C:\Users\live_\source\repos\SerializacionXMLEdd\obj\Debug\SerializacionXMLEdd.exe
+C:\Users\live_\source\repos\SerializacionXMLEdd\obj\Debug\SerializacionXMLEdd.pdb

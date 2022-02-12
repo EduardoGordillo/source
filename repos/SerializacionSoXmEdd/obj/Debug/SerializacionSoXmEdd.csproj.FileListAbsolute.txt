@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\SerializacionSoXmEdd\bin\Debug\SerializacionSoXmEdd.exe.config
+C:\Users\live_\source\repos\SerializacionSoXmEdd\bin\Debug\SerializacionSoXmEdd.exe
+C:\Users\live_\source\repos\SerializacionSoXmEdd\bin\Debug\SerializacionSoXmEdd.pdb
+C:\Users\live_\source\repos\SerializacionSoXmEdd\obj\Debug\SerializacionSoXmEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\SerializacionSoXmEdd\obj\Debug\SerializacionSoXmEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\SerializacionSoXmEdd\obj\Debug\SerializacionSoXmEdd.exe
+C:\Users\live_\source\repos\SerializacionSoXmEdd\obj\Debug\SerializacionSoXmEdd.pdb

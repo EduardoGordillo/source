@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\SerializacionComposicionEdd\bin\Debug\SerializacionComposicionEdd.exe.config
+C:\Users\live_\source\repos\SerializacionComposicionEdd\bin\Debug\SerializacionComposicionEdd.exe
+C:\Users\live_\source\repos\SerializacionComposicionEdd\bin\Debug\SerializacionComposicionEdd.pdb
+C:\Users\live_\source\repos\SerializacionComposicionEdd\obj\Debug\SerializacionComposicionEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\SerializacionComposicionEdd\obj\Debug\SerializacionComposicionEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\SerializacionComposicionEdd\obj\Debug\SerializacionComposicionEdd.exe
+C:\Users\live_\source\repos\SerializacionComposicionEdd\obj\Debug\SerializacionComposicionEdd.pdb

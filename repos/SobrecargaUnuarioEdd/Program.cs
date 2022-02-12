@@ -17,8 +17,17 @@ namespace SobrecargaUnuarioEdd
             im1--;
             Console.WriteLine(im1);
             bool i2;
-            i2 =  im1 == im2;
+            i2 = im1 == im2;
+
             Console.WriteLine(i2);
+            if (im1 > im2)
+                Console.WriteLine("im1 es mayor");
+            if (im1 < im2)
+                Console.WriteLine("im2 es mayor");
+            Console.WriteLine( im1.GetType());
+            Console.WriteLine(cuadrado(45));
         }
+        public static Func<int, int> cuadrado = x => x * x;
+        
     }
 }
