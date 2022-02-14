@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\SerializacionCompXmlEdd\bin\Debug\SerializacionCompXmlEdd.exe.config
+C:\Users\live_\source\repos\SerializacionCompXmlEdd\bin\Debug\SerializacionCompXmlEdd.exe
+C:\Users\live_\source\repos\SerializacionCompXmlEdd\bin\Debug\SerializacionCompXmlEdd.pdb
+C:\Users\live_\source\repos\SerializacionCompXmlEdd\obj\Debug\SerializacionCompXmlEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\SerializacionCompXmlEdd\obj\Debug\SerializacionCompXmlEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\SerializacionCompXmlEdd\obj\Debug\SerializacionCompXmlEdd.exe
+C:\Users\live_\source\repos\SerializacionCompXmlEdd\obj\Debug\SerializacionCompXmlEdd.pdb

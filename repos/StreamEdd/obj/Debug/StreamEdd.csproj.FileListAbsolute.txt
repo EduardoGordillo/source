@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\StreamEdd\bin\Debug\StreamEdd.exe.config
+C:\Users\live_\source\repos\StreamEdd\bin\Debug\StreamEdd.exe
+C:\Users\live_\source\repos\StreamEdd\bin\Debug\StreamEdd.pdb
+C:\Users\live_\source\repos\StreamEdd\obj\Debug\StreamEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\StreamEdd\obj\Debug\StreamEdd.exe
+C:\Users\live_\source\repos\StreamEdd\obj\Debug\StreamEdd.pdb

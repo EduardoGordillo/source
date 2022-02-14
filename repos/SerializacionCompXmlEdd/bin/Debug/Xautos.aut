@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<CAuto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Costo>180000</Costo>
+  <Modelo>&#x13;park</Modelo>
+  <Motor>
+    <Cilindros>4</Cilindros>
+    <Hp>140</Hp>
+  </Motor>
+</CAuto>
