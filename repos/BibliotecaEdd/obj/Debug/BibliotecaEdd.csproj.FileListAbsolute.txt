@@ -1,0 +1,10 @@
+C:\Users\live_\source\repos\BibliotecaEdd\bin\Debug\BibliotecaEdd.exe.config
+C:\Users\live_\source\repos\BibliotecaEdd\bin\Debug\BibliotecaEdd.exe
+C:\Users\live_\source\repos\BibliotecaEdd\bin\Debug\BibliotecaEdd.pdb
+C:\Users\live_\source\repos\BibliotecaEdd\bin\Debug\MisMates.dll
+C:\Users\live_\source\repos\BibliotecaEdd\bin\Debug\MisMates.pdb
+C:\Users\live_\source\repos\BibliotecaEdd\obj\Debug\BibliotecaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\BibliotecaEdd\obj\Debug\BibliotecaEdd.exe
+C:\Users\live_\source\repos\BibliotecaEdd\obj\Debug\BibliotecaEdd.pdb
+C:\Users\live_\source\repos\BibliotecaEdd\obj\Debug\BibliotecaEdd.csproj.CopyComplete
+C:\Users\live_\source\repos\BibliotecaEdd\obj\Debug\BibliotecaEdd.csproj.AssemblyReference.cache

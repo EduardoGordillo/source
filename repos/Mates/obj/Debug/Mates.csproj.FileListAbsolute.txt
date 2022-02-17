@@ -1,0 +1,5 @@
+C:\Users\live_\source\repos\Mates\bin\Debug\Mates.dll
+C:\Users\live_\source\repos\Mates\bin\Debug\Mates.pdb
+C:\Users\live_\source\repos\Mates\obj\Debug\Mates.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\Mates\obj\Debug\Mates.dll
+C:\Users\live_\source\repos\Mates\obj\Debug\Mates.pdb

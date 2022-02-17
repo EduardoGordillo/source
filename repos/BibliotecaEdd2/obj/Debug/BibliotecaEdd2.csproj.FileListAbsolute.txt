@@ -1,0 +1,10 @@
+C:\Users\live_\source\repos\BibliotecaEdd2\bin\Debug\BibliotecaEdd2.exe.config
+C:\Users\live_\source\repos\BibliotecaEdd2\bin\Debug\BibliotecaEdd2.exe
+C:\Users\live_\source\repos\BibliotecaEdd2\bin\Debug\BibliotecaEdd2.pdb
+C:\Users\live_\source\repos\BibliotecaEdd2\obj\Debug\BibliotecaEdd2.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\BibliotecaEdd2\obj\Debug\BibliotecaEdd2.exe
+C:\Users\live_\source\repos\BibliotecaEdd2\obj\Debug\BibliotecaEdd2.pdb
+C:\Users\live_\source\repos\BibliotecaEdd2\obj\Debug\BibliotecaEdd2.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\BibliotecaEdd2\bin\Debug\Mates.dll
+C:\Users\live_\source\repos\BibliotecaEdd2\bin\Debug\Mates.pdb
+C:\Users\live_\source\repos\BibliotecaEdd2\obj\Debug\BibliotecaEdd2.csproj.CopyComplete

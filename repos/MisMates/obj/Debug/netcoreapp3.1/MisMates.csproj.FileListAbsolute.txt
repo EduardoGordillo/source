@@ -1,0 +1,10 @@
+C:\Users\live_\source\repos\MisMates\bin\Debug\netcoreapp3.1\MisMates.deps.json
+C:\Users\live_\source\repos\MisMates\bin\Debug\netcoreapp3.1\MisMates.dll
+C:\Users\live_\source\repos\MisMates\bin\Debug\netcoreapp3.1\MisMates.pdb
+C:\Users\live_\source\repos\MisMates\obj\Debug\netcoreapp3.1\MisMates.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\MisMates\obj\Debug\netcoreapp3.1\MisMates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\MisMates\obj\Debug\netcoreapp3.1\MisMates.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\MisMates\obj\Debug\netcoreapp3.1\MisMates.AssemblyInfo.cs
+C:\Users\live_\source\repos\MisMates\obj\Debug\netcoreapp3.1\MisMates.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\MisMates\obj\Debug\netcoreapp3.1\MisMates.dll
+C:\Users\live_\source\repos\MisMates\obj\Debug\netcoreapp3.1\MisMates.pdb

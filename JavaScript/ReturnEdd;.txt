@@ -1,0 +1,14 @@
+function saludar(Nombre)
+{
+  return 'Hola, soy ' + Nombre;
+  
+  
+}
+console.log(saludar('Edd'));
+
+function sumarCuadrados ( x, y)
+{
+  return (x*x) + (y*y);
+}
+console.log(sumarCuadrados(8,3));
+alert(sumarCuadrados(8,3));

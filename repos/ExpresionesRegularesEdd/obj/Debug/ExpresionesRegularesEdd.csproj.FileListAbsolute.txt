@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\ExpresionesRegularesEdd\bin\Debug\ExpresionesRegularesEdd.exe.config
+C:\Users\live_\source\repos\ExpresionesRegularesEdd\bin\Debug\ExpresionesRegularesEdd.exe
+C:\Users\live_\source\repos\ExpresionesRegularesEdd\bin\Debug\ExpresionesRegularesEdd.pdb
+C:\Users\live_\source\repos\ExpresionesRegularesEdd\obj\Debug\ExpresionesRegularesEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\ExpresionesRegularesEdd\obj\Debug\ExpresionesRegularesEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\ExpresionesRegularesEdd\obj\Debug\ExpresionesRegularesEdd.exe
+C:\Users\live_\source\repos\ExpresionesRegularesEdd\obj\Debug\ExpresionesRegularesEdd.pdb

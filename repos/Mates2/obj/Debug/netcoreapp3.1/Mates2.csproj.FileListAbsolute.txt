@@ -1,0 +1,9 @@
+C:\Users\live_\source\repos\Mates2\bin\Debug\netcoreapp3.1\Mates2.deps.json
+C:\Users\live_\source\repos\Mates2\bin\Debug\netcoreapp3.1\Mates2.dll
+C:\Users\live_\source\repos\Mates2\bin\Debug\netcoreapp3.1\Mates2.pdb
+C:\Users\live_\source\repos\Mates2\obj\Debug\netcoreapp3.1\Mates2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\Mates2\obj\Debug\netcoreapp3.1\Mates2.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\Mates2\obj\Debug\netcoreapp3.1\Mates2.AssemblyInfo.cs
+C:\Users\live_\source\repos\Mates2\obj\Debug\netcoreapp3.1\Mates2.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\Mates2\obj\Debug\netcoreapp3.1\Mates2.dll
+C:\Users\live_\source\repos\Mates2\obj\Debug\netcoreapp3.1\Mates2.pdb

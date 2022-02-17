@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\NombradosOpcionales\bin\Debug\NombradosOpcionales.exe.config
+C:\Users\live_\source\repos\NombradosOpcionales\bin\Debug\NombradosOpcionales.exe
+C:\Users\live_\source\repos\NombradosOpcionales\bin\Debug\NombradosOpcionales.pdb
+C:\Users\live_\source\repos\NombradosOpcionales\obj\Debug\NombradosOpcionales.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\NombradosOpcionales\obj\Debug\NombradosOpcionales.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\NombradosOpcionales\obj\Debug\NombradosOpcionales.exe
+C:\Users\live_\source\repos\NombradosOpcionales\obj\Debug\NombradosOpcionales.pdb
