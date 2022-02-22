@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\BitArrayEdd\bin\Debug\BitArrayEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\BitArrayEdd\bin\Debug\BitArrayEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\BitArrayEdd\bin\Debug\BitArrayEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\BitArrayEdd\obj\Debug\BitArrayEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\BitArrayEdd\obj\Debug\BitArrayEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\BitArrayEdd\obj\Debug\BitArrayEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\BitArrayEdd\obj\Debug\BitArrayEdd.pdb

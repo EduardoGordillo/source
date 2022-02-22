@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\StackEdd\bin\Debug\StackEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\StackEdd\bin\Debug\StackEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\StackEdd\bin\Debug\StackEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\StackEdd\obj\Debug\StackEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\StackEdd\obj\Debug\StackEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\StackEdd\obj\Debug\StackEdd.pdb

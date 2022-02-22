@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ArrayListGenericEdd\bin\Debug\ArrayListGenericEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ArrayListGenericEdd\bin\Debug\ArrayListGenericEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ArrayListGenericEdd\bin\Debug\ArrayListGenericEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ArrayListGenericEdd\obj\Debug\ArrayListGenericEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ArrayListGenericEdd\obj\Debug\ArrayListGenericEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ArrayListGenericEdd\obj\Debug\ArrayListGenericEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ArrayListGenericEdd\obj\Debug\ArrayListGenericEdd.pdb

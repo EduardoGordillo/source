@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\SortedSetEdd\bin\Debug\SortedSetEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\SortedSetEdd\bin\Debug\SortedSetEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\SortedSetEdd\bin\Debug\SortedSetEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\SortedSetEdd\obj\Debug\SortedSetEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\SortedSetEdd\obj\Debug\SortedSetEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\SortedSetEdd\obj\Debug\SortedSetEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\SortedSetEdd\obj\Debug\SortedSetEdd.pdb

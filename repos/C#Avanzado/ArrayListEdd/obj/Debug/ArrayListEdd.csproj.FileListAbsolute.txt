@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ArrayListEdd\bin\Debug\ArrayListEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ArrayListEdd\bin\Debug\ArrayListEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ArrayListEdd\bin\Debug\ArrayListEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ArrayListEdd\obj\Debug\ArrayListEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ArrayListEdd\obj\Debug\ArrayListEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ArrayListEdd\obj\Debug\ArrayListEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ArrayListEdd\obj\Debug\ArrayListEdd.pdb

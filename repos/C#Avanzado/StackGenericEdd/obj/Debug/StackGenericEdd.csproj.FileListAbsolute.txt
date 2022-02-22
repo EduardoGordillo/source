@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\StackGenericEdd\bin\Debug\StackGenericEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\StackGenericEdd\bin\Debug\StackGenericEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\StackGenericEdd\bin\Debug\StackGenericEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\StackGenericEdd\obj\Debug\StackGenericEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\StackGenericEdd\obj\Debug\StackGenericEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\StackGenericEdd\obj\Debug\StackGenericEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\StackGenericEdd\obj\Debug\StackGenericEdd.pdb

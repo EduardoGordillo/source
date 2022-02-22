@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\QueueEdd\bin\Debug\QueueEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\QueueEdd\bin\Debug\QueueEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\QueueEdd\bin\Debug\QueueEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\QueueEdd\obj\Debug\QueueEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\QueueEdd\obj\Debug\QueueEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\QueueEdd\obj\Debug\QueueEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\QueueEdd\obj\Debug\QueueEdd.csproj.AssemblyReference.cache
