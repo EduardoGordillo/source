@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\VarNulleableEdd\bin\Debug\VarNulleableEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\VarNulleableEdd\bin\Debug\VarNulleableEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\VarNulleableEdd\bin\Debug\VarNulleableEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\VarNulleableEdd\obj\Debug\VarNulleableEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\VarNulleableEdd\obj\Debug\VarNulleableEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\VarNulleableEdd\obj\Debug\VarNulleableEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\VarNulleableEdd\obj\Debug\VarNulleableEdd.pdb

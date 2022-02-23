@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\MetodosGenericoEDd\bin\Debug\MetodosGenericoEDd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\MetodosGenericoEDd\bin\Debug\MetodosGenericoEDd.exe
+C:\Users\live_\source\repos\C#Avanzado\MetodosGenericoEDd\bin\Debug\MetodosGenericoEDd.pdb
+C:\Users\live_\source\repos\C#Avanzado\MetodosGenericoEDd\obj\Debug\MetodosGenericoEDd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\MetodosGenericoEDd\obj\Debug\MetodosGenericoEDd.exe
+C:\Users\live_\source\repos\C#Avanzado\MetodosGenericoEDd\obj\Debug\MetodosGenericoEDd.pdb

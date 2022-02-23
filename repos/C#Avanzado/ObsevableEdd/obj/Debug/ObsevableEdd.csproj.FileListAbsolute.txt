@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ObsevableEdd\bin\Debug\ObsevableEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ObsevableEdd\bin\Debug\ObsevableEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ObsevableEdd\bin\Debug\ObsevableEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ObsevableEdd\obj\Debug\ObsevableEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ObsevableEdd\obj\Debug\ObsevableEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ObsevableEdd\obj\Debug\ObsevableEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ObsevableEdd\obj\Debug\ObsevableEdd.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9747AA64-2EC0-4A3F-B297-739E0372B3D1}</ProjectGuid>
+    <ProjectGuid>{DDCCF95A-4596-416E-B92D-D4AB43127802}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ObsevableEdd</RootNamespace>
-    <AssemblyName>ObsevableEdd</AssemblyName>
+    <RootNamespace>MetodosGenericoEDd</RootNamespace>
+    <AssemblyName>MetodosGenericoEDd</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CPunto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\DynamicEdd\bin\Debug\DynamicEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\DynamicEdd\bin\Debug\DynamicEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\DynamicEdd\bin\Debug\DynamicEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\DynamicEdd\obj\Debug\DynamicEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\DynamicEdd\obj\Debug\DynamicEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\DynamicEdd\obj\Debug\DynamicEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\DynamicEdd\obj\Debug\DynamicEdd.csproj.AssemblyReference.cache
