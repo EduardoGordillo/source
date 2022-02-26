@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe.config
+C:\Users\live_\source\repos\C#Avanzado\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe
+C:\Users\live_\source\repos\C#Avanzado\MetodosAnonimos\bin\Debug\MetodosAnonimos.pdb
+C:\Users\live_\source\repos\C#Avanzado\MetodosAnonimos\obj\Debug\MetodosAnonimos.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\MetodosAnonimos\obj\Debug\MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\MetodosAnonimos\obj\Debug\MetodosAnonimos.exe
+C:\Users\live_\source\repos\C#Avanzado\MetodosAnonimos\obj\Debug\MetodosAnonimos.pdb

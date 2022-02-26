@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ClaseGenericaEdd\bin\Debug\ClaseGenericaEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ClaseGenericaEdd\bin\Debug\ClaseGenericaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ClaseGenericaEdd\bin\Debug\ClaseGenericaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ClaseGenericaEdd\obj\Debug\ClaseGenericaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ClaseGenericaEdd\obj\Debug\ClaseGenericaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ClaseGenericaEdd\obj\Debug\ClaseGenericaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ClaseGenericaEdd\obj\Debug\ClaseGenericaEdd.pdb

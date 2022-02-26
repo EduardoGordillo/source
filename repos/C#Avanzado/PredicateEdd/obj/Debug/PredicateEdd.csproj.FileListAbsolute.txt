@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\PredicateEdd\bin\Debug\PredicateEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\PredicateEdd\bin\Debug\PredicateEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\PredicateEdd\bin\Debug\PredicateEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\PredicateEdd\obj\Debug\PredicateEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\PredicateEdd\obj\Debug\PredicateEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\PredicateEdd\obj\Debug\PredicateEdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\OperacionGenericaEdd\bin\Debug\OperacionGenericaEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\OperacionGenericaEdd\bin\Debug\OperacionGenericaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\OperacionGenericaEdd\bin\Debug\OperacionGenericaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\OperacionGenericaEdd\obj\Debug\OperacionGenericaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\OperacionGenericaEdd\obj\Debug\OperacionGenericaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\OperacionGenericaEdd\obj\Debug\OperacionGenericaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\OperacionGenericaEdd\obj\Debug\OperacionGenericaEdd.pdb

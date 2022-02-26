@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\LambdaEdd\bin\Debug\LambdaEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\LambdaEdd\bin\Debug\LambdaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\LambdaEdd\bin\Debug\LambdaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\LambdaEdd\obj\Debug\LambdaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\LambdaEdd\obj\Debug\LambdaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\LambdaEdd\obj\Debug\LambdaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\LambdaEdd\obj\Debug\LambdaEdd.pdb

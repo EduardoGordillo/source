@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\Action_FuncEdd\bin\Debug\Action_FuncEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\Action_FuncEdd\bin\Debug\Action_FuncEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\Action_FuncEdd\bin\Debug\Action_FuncEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\Action_FuncEdd\obj\Debug\Action_FuncEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\Action_FuncEdd\obj\Debug\Action_FuncEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\Action_FuncEdd\obj\Debug\Action_FuncEdd.pdb
