@@ -41,7 +41,7 @@ function espera (mensaje){
   }
   espera('hola desde clousure');
 
-  
+
   var Counter = (function() {
     var privateCounter = 0;
     function changeBy(val) {
@@ -66,3 +66,13 @@ function espera (mensaje){
   alert(Counter.value()); /* Muestra 2 */
   Counter.decrement();
   alert(Counter.value()); /* Muestra 1 */ 
+  
+  for (var i = 0; i <= 5; i++)
+  {
+    
+    (function (z){
+      setTimeout(function(){
+      console.log(z)
+      
+    }, z*1000);})(i);
+  }

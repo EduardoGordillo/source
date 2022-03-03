@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>LaWeb</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table style="width: 500px;">
+        <thead>
+        <tr>
+            <th>Precio</th>
+            <th>Producto</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Hola Beats</td>
+            <td>Gratis</td>
+        </tr>
+        <tr>
+            <td>Carne fresca</td>
+            <td>90.00$</td>
+        </tr>
+        <tr>
+            <td>Carne fresca premium</td>
+            <td>120.00$</td>
+        </tr>
+        </tbody>
+        <tfoot>
+            <td></td>
+            <td>Total: 210.00$</td>
+        </tfoot>
+    </table>
+        <!-- ul es una lista no ordenada  y ol es lista ordenada-->
+    <ol>
+        <li value ="50">Elemento 1</li>
+        <li>Elemento 2</li>
+        <li>Elemento 3</li>
+        <li>Elemento 4</li>
+        <li>Elemento 5</li>
+        <li>
+            <ol>
+                <li style="list-style-type: lower-roman">SubElemento 1</li>
+                <li style="list-style-type: upper-alpha">SubElemento 2</li>
+                <li style="list-style-type: upper-alpha">SubElemento 3</li>
+            </ol>
+        </li>
+    </ol>
+    <form action="/Formulario" method="post">
+        <label for="nombre">Nombre</label>
+        <input value ="Eduardo" type="text" id="nombre" name ="nombre" placeholder="Nombre"/>
+        <br>
+        <label for="apellido">Apellido</label>
+        <input type = "text" id="apellido" name="apellido" placeholder="Apellido"/>
+        <br>
+        <label for="comentario">Cometario</label>
+        <br>
+        <textarea  cols="15" rows="10" id="comentario" placeholder="Ingrese comentario" name="comentario"  >Este es un valor por defecto</textarea>
+        <button type="button"><img src="img/Azul.jfif" width="25">Tipo boton</button>
+        <button type="reset">Tipo reset</button>
+        <button type="submit">Tipo submit</button>
+    </form>
+    <!--cada concepto de forma ordenada -->
+    <h1>Cabecera</h1>
+    <h2>El subtitulo</h2>
+    
+    <p>Parrafo 1</p> 
+    <hr>
+    <h4>El subtitulo2</h4>
+    <p>Parrafo 2</p>
+    <hr>
+    <h3>EL subtitulo1</h3>
+    <p>Ahora tenemos que lograr 
+        escribir para que el<br> texto sea <span style="color:blueviolet">mucho mas largo</span>
+        con span!
+    </p>
+    <h5>El subtitulo3</h5>
+    <h6>El subtituto4</h6>
+    <a target = "_blank" href="https://www.google.com.mx/">Ir a google</a>
+    <img src="img/Azul.jfif" height="400" width="350" /> 
+
+    
+</body>
+</html>

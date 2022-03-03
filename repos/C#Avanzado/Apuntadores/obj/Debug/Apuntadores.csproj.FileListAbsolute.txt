@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\Apuntadores\bin\Debug\Apuntadores.exe.config
+C:\Users\live_\source\repos\C#Avanzado\Apuntadores\bin\Debug\Apuntadores.exe
+C:\Users\live_\source\repos\C#Avanzado\Apuntadores\bin\Debug\Apuntadores.pdb
+C:\Users\live_\source\repos\C#Avanzado\Apuntadores\obj\Debug\Apuntadores.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\Apuntadores\obj\Debug\Apuntadores.exe
+C:\Users\live_\source\repos\C#Avanzado\Apuntadores\obj\Debug\Apuntadores.pdb

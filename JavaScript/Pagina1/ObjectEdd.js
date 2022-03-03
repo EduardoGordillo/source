@@ -17,3 +17,11 @@ var libro = {
   funcion1: funcion1
 };
 console.log(libro.funcion1);
+
+for(var propiedad in libro)
+{
+  
+  console.log(propiedad + " : " + libro[propiedad]);
+    
+    
+}

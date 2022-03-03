@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\TiposAnonimosEdd\bin\Debug\TiposAnonimosEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\TiposAnonimosEdd\bin\Debug\TiposAnonimosEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\TiposAnonimosEdd\bin\Debug\TiposAnonimosEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\TiposAnonimosEdd\obj\Debug\TiposAnonimosEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\TiposAnonimosEdd\obj\Debug\TiposAnonimosEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\TiposAnonimosEdd\obj\Debug\TiposAnonimosEdd.pdb

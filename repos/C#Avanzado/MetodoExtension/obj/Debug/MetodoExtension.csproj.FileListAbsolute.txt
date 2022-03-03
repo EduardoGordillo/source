@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\MetodoExtension\bin\Debug\MetodoExtension.exe.config
+C:\Users\live_\source\repos\C#Avanzado\MetodoExtension\bin\Debug\MetodoExtension.exe
+C:\Users\live_\source\repos\C#Avanzado\MetodoExtension\bin\Debug\MetodoExtension.pdb
+C:\Users\live_\source\repos\C#Avanzado\MetodoExtension\obj\Debug\MetodoExtension.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\MetodoExtension\obj\Debug\MetodoExtension.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\MetodoExtension\obj\Debug\MetodoExtension.exe
+C:\Users\live_\source\repos\C#Avanzado\MetodoExtension\obj\Debug\MetodoExtension.pdb

@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\MetodosInterfaces03Edd\bin\Debug\MetodosInterfaces03Edd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\MetodosInterfaces03Edd\bin\Debug\MetodosInterfaces03Edd.exe
+C:\Users\live_\source\repos\C#Avanzado\MetodosInterfaces03Edd\bin\Debug\MetodosInterfaces03Edd.pdb
+C:\Users\live_\source\repos\C#Avanzado\MetodosInterfaces03Edd\obj\Debug\MetodosInterfaces03Edd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\MetodosInterfaces03Edd\obj\Debug\MetodosInterfaces03Edd.exe
+C:\Users\live_\source\repos\C#Avanzado\MetodosInterfaces03Edd\obj\Debug\MetodosInterfaces03Edd.pdb

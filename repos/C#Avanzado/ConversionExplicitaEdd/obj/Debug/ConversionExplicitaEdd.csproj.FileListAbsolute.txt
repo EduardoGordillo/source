@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ConversionExplicitaEdd\bin\Debug\ConversionExplicitaEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ConversionExplicitaEdd\bin\Debug\ConversionExplicitaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ConversionExplicitaEdd\bin\Debug\ConversionExplicitaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ConversionExplicitaEdd\obj\Debug\ConversionExplicitaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ConversionExplicitaEdd\obj\Debug\ConversionExplicitaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ConversionExplicitaEdd\obj\Debug\ConversionExplicitaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ConversionExplicitaEdd\obj\Debug\ConversionExplicitaEdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ConversionImplicitaEdd\obj\Debug\ConversionImplicitaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ConversionImplicitaEdd\obj\Debug\ConversionImplicitaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ConversionImplicitaEdd\bin\Debug\ConversionImplicitaEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ConversionImplicitaEdd\bin\Debug\ConversionImplicitaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ConversionImplicitaEdd\bin\Debug\ConversionImplicitaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ConversionImplicitaEdd\obj\Debug\ConversionImplicitaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ConversionImplicitaEdd\obj\Debug\ConversionImplicitaEdd.pdb

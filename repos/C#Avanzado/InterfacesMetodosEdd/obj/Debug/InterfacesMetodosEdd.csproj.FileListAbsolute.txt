@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\InterfacesMetodosEdd\bin\Debug\InterfacesMetodosEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\InterfacesMetodosEdd\bin\Debug\InterfacesMetodosEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\InterfacesMetodosEdd\bin\Debug\InterfacesMetodosEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\InterfacesMetodosEdd\obj\Debug\InterfacesMetodosEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\InterfacesMetodosEdd\obj\Debug\InterfacesMetodosEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\InterfacesMetodosEdd\obj\Debug\InterfacesMetodosEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\InterfacesMetodosEdd\obj\Debug\InterfacesMetodosEdd.pdb
