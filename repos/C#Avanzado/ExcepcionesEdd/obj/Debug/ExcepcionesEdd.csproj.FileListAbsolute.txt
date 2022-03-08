@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ExcepcionesEdd\obj\Debug\ExcepcionesEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ExcepcionesEdd\obj\Debug\ExcepcionesEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ExcepcionesEdd\bin\Debug\ExcepcionesEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ExcepcionesEdd\bin\Debug\ExcepcionesEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ExcepcionesEdd\bin\Debug\ExcepcionesEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ExcepcionesEdd\obj\Debug\ExcepcionesEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ExcepcionesEdd\obj\Debug\ExcepcionesEdd.pdb

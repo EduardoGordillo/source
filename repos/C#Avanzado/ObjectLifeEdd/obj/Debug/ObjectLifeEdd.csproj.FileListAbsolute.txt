@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ObjectLifeEdd\bin\Debug\ObjectLifeEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ObjectLifeEdd\bin\Debug\ObjectLifeEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ObjectLifeEdd\bin\Debug\ObjectLifeEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ObjectLifeEdd\obj\Debug\ObjectLifeEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ObjectLifeEdd\obj\Debug\ObjectLifeEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ObjectLifeEdd\obj\Debug\ObjectLifeEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ObjectLifeEdd\obj\Debug\ObjectLifeEdd.pdb
