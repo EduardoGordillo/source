@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\FinalizableDisposable\bin\Debug\FinalizableDisposable.exe.config
+C:\Users\live_\source\repos\C#Avanzado\FinalizableDisposable\bin\Debug\FinalizableDisposable.exe
+C:\Users\live_\source\repos\C#Avanzado\FinalizableDisposable\bin\Debug\FinalizableDisposable.pdb
+C:\Users\live_\source\repos\C#Avanzado\FinalizableDisposable\obj\Debug\FinalizableDisposable.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\FinalizableDisposable\obj\Debug\FinalizableDisposable.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\FinalizableDisposable\obj\Debug\FinalizableDisposable.exe
+C:\Users\live_\source\repos\C#Avanzado\FinalizableDisposable\obj\Debug\FinalizableDisposable.pdb

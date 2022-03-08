@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\Reflection02Edd\bin\Debug\Reflection02Edd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\Reflection02Edd\bin\Debug\Reflection02Edd.exe
+C:\Users\live_\source\repos\C#Avanzado\Reflection02Edd\bin\Debug\Reflection02Edd.pdb
+C:\Users\live_\source\repos\C#Avanzado\Reflection02Edd\obj\Debug\Reflection02Edd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\Reflection02Edd\obj\Debug\Reflection02Edd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\Reflection02Edd\obj\Debug\Reflection02Edd.exe
+C:\Users\live_\source\repos\C#Avanzado\Reflection02Edd\obj\Debug\Reflection02Edd.pdb

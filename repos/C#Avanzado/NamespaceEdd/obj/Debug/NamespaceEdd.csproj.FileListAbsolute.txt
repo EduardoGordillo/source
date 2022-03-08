@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\NamespaceEdd\bin\Debug\NamespaceEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\NamespaceEdd\bin\Debug\NamespaceEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\NamespaceEdd\bin\Debug\NamespaceEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\NamespaceEdd\obj\Debug\NamespaceEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\NamespaceEdd\obj\Debug\NamespaceEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\NamespaceEdd\obj\Debug\NamespaceEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\NamespaceEdd\obj\Debug\NamespaceEdd.pdb

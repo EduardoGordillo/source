@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ExceptionAplicationEdd\bin\Debug\ExceptionAplicationEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ExceptionAplicationEdd\bin\Debug\ExceptionAplicationEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ExceptionAplicationEdd\bin\Debug\ExceptionAplicationEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ExceptionAplicationEdd\obj\Debug\ExceptionAplicationEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ExceptionAplicationEdd\obj\Debug\ExceptionAplicationEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ExceptionAplicationEdd\obj\Debug\ExceptionAplicationEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ExceptionAplicationEdd\obj\Debug\ExceptionAplicationEdd.pdb

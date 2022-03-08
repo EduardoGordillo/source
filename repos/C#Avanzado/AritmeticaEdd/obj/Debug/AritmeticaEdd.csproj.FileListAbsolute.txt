@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaEdd\bin\Debug\AritmeticaEdd.dll
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaEdd\bin\Debug\AritmeticaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaEdd\obj\Debug\AritmeticaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaEdd\obj\Debug\AritmeticaEdd.dll
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaEdd\obj\Debug\AritmeticaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaEdd\obj\Debug\AritmeticaEdd.csproj.AssemblyReference.cache

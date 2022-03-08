@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\SystemConfigurationEdd\bin\Debug\SystemConfigurationEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\SystemConfigurationEdd\bin\Debug\SystemConfigurationEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\SystemConfigurationEdd\bin\Debug\SystemConfigurationEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\SystemConfigurationEdd\obj\Debug\SystemConfigurationEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\SystemConfigurationEdd\obj\Debug\SystemConfigurationEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\SystemConfigurationEdd\obj\Debug\SystemConfigurationEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\SystemConfigurationEdd\obj\Debug\SystemConfigurationEdd.pdb

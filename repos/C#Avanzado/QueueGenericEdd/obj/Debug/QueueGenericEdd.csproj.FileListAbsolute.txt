@@ -4,3 +4,4 @@ C:\Users\live_\source\repos\C#Avanzado\QueueGenericEdd\bin\Debug\QueueGenericEdd
 C:\Users\live_\source\repos\C#Avanzado\QueueGenericEdd\obj\Debug\QueueGenericEdd.csproj.CoreCompileInputs.cache
 C:\Users\live_\source\repos\C#Avanzado\QueueGenericEdd\obj\Debug\QueueGenericEdd.exe
 C:\Users\live_\source\repos\C#Avanzado\QueueGenericEdd\obj\Debug\QueueGenericEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\QueueGenericEdd\obj\Debug\QueueGenericEdd.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ListEdd\bin\Debug\ListEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ListEdd\bin\Debug\ListEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ListEdd\bin\Debug\ListEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ListEdd\obj\Debug\ListEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ListEdd\obj\Debug\ListEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ListEdd\obj\Debug\ListEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ListEdd\obj\Debug\ListEdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ObjectDisposable\bin\Debug\ObjectDisposable.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ObjectDisposable\bin\Debug\ObjectDisposable.exe
+C:\Users\live_\source\repos\C#Avanzado\ObjectDisposable\bin\Debug\ObjectDisposable.pdb
+C:\Users\live_\source\repos\C#Avanzado\ObjectDisposable\obj\Debug\ObjectDisposable.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ObjectDisposable\obj\Debug\ObjectDisposable.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ObjectDisposable\obj\Debug\ObjectDisposable.exe
+C:\Users\live_\source\repos\C#Avanzado\ObjectDisposable\obj\Debug\ObjectDisposable.pdb
