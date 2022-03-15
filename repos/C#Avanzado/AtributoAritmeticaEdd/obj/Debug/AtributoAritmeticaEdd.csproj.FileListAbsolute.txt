@@ -1,0 +1,9 @@
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\bin\Debug\AtributoAritmeticaEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\bin\Debug\AtributoAritmeticaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\bin\Debug\AtributoAritmeticaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\bin\Debug\AritmeticaAtriburtosEdd.dll
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\bin\Debug\AritmeticaAtriburtosEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\obj\Debug\AtributoAritmeticaEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\obj\Debug\AtributoAritmeticaEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\obj\Debug\AtributoAritmeticaEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\AtributoAritmeticaEdd\obj\Debug\AtributoAritmeticaEdd.pdb

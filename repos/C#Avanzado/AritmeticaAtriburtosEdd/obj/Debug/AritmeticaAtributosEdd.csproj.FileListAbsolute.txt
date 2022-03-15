@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaAtriburtosEdd\obj\Debug\AritmeticaAtributosEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaAtriburtosEdd\obj\Debug\AritmeticaAtributosEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaAtriburtosEdd\bin\Debug\AritmeticaAtriburtosEdd.dll
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaAtriburtosEdd\bin\Debug\AritmeticaAtriburtosEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaAtriburtosEdd\obj\Debug\AritmeticaAtriburtosEdd.dll
+C:\Users\live_\source\repos\C#Avanzado\AritmeticaAtriburtosEdd\obj\Debug\AritmeticaAtriburtosEdd.pdb

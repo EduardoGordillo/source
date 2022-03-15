@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd\bin\Debug\AtributosEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd\bin\Debug\AtributosEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd\bin\Debug\AtributosEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd\obj\Debug\AtributosEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd\obj\Debug\AtributosEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd\obj\Debug\AtributosEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd\obj\Debug\AtributosEdd.pdb
