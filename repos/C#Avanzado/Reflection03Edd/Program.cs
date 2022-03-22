@@ -19,7 +19,7 @@ namespace Reflection03Edd
             try
             {
                 // cargamos el assembly
-                asm = Assembly.Load(" ");
+                asm = Assembly.Load("AritmeticaEdd");
                 EncuentraTipos1(asm);
             }
             catch (FileNotFoundException ex)
@@ -50,15 +50,7 @@ namespace Reflection03Edd
                     // si suma tuviera parametros de entrada se invoca de la siguiente manera
                     //suma.Invoke(obj, new object[] { 1, 3 });
 
-                    // invocamos la propiedad
-                    object r = resultado.GetValue(obj);
-
-                    Console.WriteLine("El valor es {0}", r);
-                    resta.Invoke(obj, null);
-
-                    r = resultado.GetValue(obj);
-
-                    Console.WriteLine("El valor es {0}",r);
+                    
                 }
                 catch (FileNotFoundException ex)
 

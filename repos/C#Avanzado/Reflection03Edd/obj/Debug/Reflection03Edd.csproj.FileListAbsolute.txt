@@ -5,3 +5,6 @@ C:\Users\live_\source\repos\C#Avanzado\Reflection03Edd\obj\Debug\Reflection03Edd
 C:\Users\live_\source\repos\C#Avanzado\Reflection03Edd\obj\Debug\Reflection03Edd.csproj.CoreCompileInputs.cache
 C:\Users\live_\source\repos\C#Avanzado\Reflection03Edd\obj\Debug\Reflection03Edd.exe
 C:\Users\live_\source\repos\C#Avanzado\Reflection03Edd\obj\Debug\Reflection03Edd.pdb
+C:\Users\live_\source\repos\C#Avanzado\Reflection03Edd\bin\Debug\AritmeticaEdd.dll
+C:\Users\live_\source\repos\C#Avanzado\Reflection03Edd\bin\Debug\AritmeticaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\Reflection03Edd\obj\Debug\Reflection03Edd.csproj.CopyComplete

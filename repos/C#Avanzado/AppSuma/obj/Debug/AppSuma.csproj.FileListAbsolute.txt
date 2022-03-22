@@ -1,0 +1,12 @@
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\obj\Debug\AppSuma.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\obj\Debug\AppSuma.Form1.resources
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\obj\Debug\AppSuma.Properties.Resources.resources
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\obj\Debug\AppSuma.csproj.GenerateResource.cache
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\obj\Debug\AppSuma.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\bin\Debug\AppSuma.exe.config
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\bin\Debug\AppSuma.exe
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\bin\Debug\AppSuma.pdb
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\bin\Debug\TiposPlug-on.dll
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\bin\Debug\TiposPlug-on.pdb
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\obj\Debug\AppSuma.exe
+C:\Users\live_\source\repos\C#Avanzado\AppSuma\obj\Debug\AppSuma.pdb

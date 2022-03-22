@@ -1,0 +1,9 @@
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\bin\Debug\PluginSumatoria.dll
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\bin\Debug\PluginSumatoria.pdb
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\bin\Debug\TiposPlug-on.dll
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\bin\Debug\TiposPlug-on.pdb
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\obj\Debug\PluginSumatoria.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\obj\Debug\PluginSumatoria.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\obj\Debug\PluginSumatoria.csproj.CopyComplete
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\obj\Debug\PluginSumatoria.dll
+C:\Users\live_\source\repos\C#Avanzado\PluginSumatoria\obj\Debug\PluginSumatoria.pdb

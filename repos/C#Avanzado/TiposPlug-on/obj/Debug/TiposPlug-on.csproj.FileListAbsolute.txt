@@ -1,0 +1,6 @@
+C:\Users\live_\source\repos\C#Avanzado\TiposPlug-on\bin\Debug\TiposPlug-on.dll
+C:\Users\live_\source\repos\C#Avanzado\TiposPlug-on\bin\Debug\TiposPlug-on.pdb
+C:\Users\live_\source\repos\C#Avanzado\TiposPlug-on\obj\Debug\TiposPlug-on.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\TiposPlug-on\obj\Debug\TiposPlug-on.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\TiposPlug-on\obj\Debug\TiposPlug-on.dll
+C:\Users\live_\source\repos\C#Avanzado\TiposPlug-on\obj\Debug\TiposPlug-on.pdb

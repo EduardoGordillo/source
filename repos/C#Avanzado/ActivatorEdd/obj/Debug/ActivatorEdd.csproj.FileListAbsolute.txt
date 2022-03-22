@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\ActivatorEdd\obj\Debug\ActivatorEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ActivatorEdd\obj\Debug\ActivatorEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ActivatorEdd\bin\Debug\ActivatorEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ActivatorEdd\bin\Debug\ActivatorEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ActivatorEdd\bin\Debug\ActivatorEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ActivatorEdd\obj\Debug\ActivatorEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ActivatorEdd\obj\Debug\ActivatorEdd.pdb

@@ -18,7 +18,7 @@ namespace ReflectionEdd
             {
                 // obtenemos el tipo
                 //Type t = Type.GetType("System.Collections.ArrayList");
-                Type t = Type.GetType("System.Console");
+                Type t = Type.GetType("System.String");
 
                 // metodos que buscan la informacion sobre el tipo
                 CaracteristicasTipo(t);

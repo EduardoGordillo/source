@@ -1,0 +1,11 @@
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\bin\Debug\ReflexionDynamicEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\bin\Debug\ReflexionDynamicEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\bin\Debug\ReflexionDynamicEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\bin\Debug\AritmeticaAtriburtosEdd.dll
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\bin\Debug\AritmeticaEdd.dll
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\bin\Debug\AritmeticaAtriburtosEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\bin\Debug\AritmeticaEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\obj\Debug\ReflexionDynamicEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\obj\Debug\ReflexionDynamicEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\obj\Debug\ReflexionDynamicEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\ReflexionDynamicEdd\obj\Debug\ReflexionDynamicEdd.pdb

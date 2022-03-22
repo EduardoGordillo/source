@@ -1,0 +1,8 @@
+C:\Users\live_\source\repos\C#Avanzado\PluginSuma\bin\Debug\PluginSuma.dll
+C:\Users\live_\source\repos\C#Avanzado\PluginSuma\bin\Debug\PluginSuma.pdb
+C:\Users\live_\source\repos\C#Avanzado\PluginSuma\bin\Debug\TiposPlug-on.dll
+C:\Users\live_\source\repos\C#Avanzado\PluginSuma\bin\Debug\TiposPlug-on.pdb
+C:\Users\live_\source\repos\C#Avanzado\PluginSuma\obj\Debug\PluginSuma.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\PluginSuma\obj\Debug\PluginSuma.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\PluginSuma\obj\Debug\PluginSuma.dll
+C:\Users\live_\source\repos\C#Avanzado\PluginSuma\obj\Debug\PluginSuma.pdb

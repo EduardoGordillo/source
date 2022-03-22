@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd\bin\Debug\AppDomainEdd.exe.config
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd\bin\Debug\AppDomainEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd\bin\Debug\AppDomainEdd.pdb
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd\obj\Debug\AppDomainEdd.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd\obj\Debug\AppDomainEdd.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd\obj\Debug\AppDomainEdd.exe
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd\obj\Debug\AppDomainEdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd02\bin\Debug\AtributosEdd02.exe.config
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd02\bin\Debug\AtributosEdd02.exe
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd02\bin\Debug\AtributosEdd02.pdb
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd02\obj\Debug\AtributosEdd02.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd02\obj\Debug\AtributosEdd02.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd02\obj\Debug\AtributosEdd02.exe
+C:\Users\live_\source\repos\C#Avanzado\AtributosEdd02\obj\Debug\AtributosEdd02.pdb
