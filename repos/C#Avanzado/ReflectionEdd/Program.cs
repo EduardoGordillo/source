@@ -32,6 +32,7 @@ namespace ReflectionEdd
             {
                 Console.WriteLine("Verificar el tipo");
             }
+            
         }
 
         public static void CaracteristicasTipo(Type t)

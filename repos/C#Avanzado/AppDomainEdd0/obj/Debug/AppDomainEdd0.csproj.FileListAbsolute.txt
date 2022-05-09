@@ -1,0 +1,7 @@
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd0\bin\Debug\AppDomainEdd0.exe.config
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd0\bin\Debug\AppDomainEdd0.exe
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd0\bin\Debug\AppDomainEdd0.pdb
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd0\obj\Debug\AppDomainEdd0.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd0\obj\Debug\AppDomainEdd0.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd0\obj\Debug\AppDomainEdd0.exe
+C:\Users\live_\source\repos\C#Avanzado\AppDomainEdd0\obj\Debug\AppDomainEdd0.pdb
