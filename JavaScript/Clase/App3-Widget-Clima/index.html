@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Widget Clima</title>
+</head>
+<body>
+    <script type="module">
+        import * as XWeather from './node_modules/x-weather/dist/esm/module.js'
+       
+        XWeather.defineCustomElements()
+      </script> 
+      <x-weather
+        appid="68d2f2bec0a179a74dd4f59b7e22fe83"        "
+        latitude="19.311829"
+        longitude="98.854113"
+        placename="Ixtapaluca, Edo Mexico"
+      >
+        <x-current primaryscale="f"></x-current>
+        <x-forecast days="7" primaryscale="f"></x-forecast>
+      </x-weather>
+</body>
+</html>

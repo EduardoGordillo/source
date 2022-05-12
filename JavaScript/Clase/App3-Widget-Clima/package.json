@@ -1,0 +1,22 @@
+{
+  "name": "app3-widget-clima",
+  "version": "1.0.0",
+  "description": "Widget para mostrar el estado del clima",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "widget",
+    "clima",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Eduardo Gordillo Perez",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "x-weather": "^3.0.0"
+  }
+}
