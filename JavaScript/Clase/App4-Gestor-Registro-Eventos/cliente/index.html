@@ -6,9 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App Registro Eventos</title>
  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css"/>
 
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/default.min.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/semantic.min.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/bootstrap.min.css"/>
+
+    <link rel="stylesheet" href="css/estilos.css">
 </head>
+
 <body>
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -21,11 +28,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="/" class="navbar-brand">Registro de Eventos</a>
+            <a href="index.html" class="navbar-brand">Registro de Eventos</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="/">Inicio</a></li>
+                    <li class="active"><a href="index.html">Inicio</a></li>
                     <li><a href="estadisticas.html">Estadisticas</a></li>
                     <li><a href="ubicacion.html">Ubicacion</a></li>
                 </ul>
@@ -35,8 +42,8 @@
     
     <div class="container">
         <div class="area-formulario">
-            <h1 class="titulo-evento">JavaScript - Evento</h1>
-            <form action="" class="fmrRegistsro" method="POST">
+            <h1 class="titulo">JavaScript - Evento</h1>
+            <form id="frmRegistroEvento" method="POST">
                 <div class="form-group">
                     <label for="nombre">Nombre*:</label>
                     <input type="text" class="form-control" id="nombre">
@@ -66,9 +73,9 @@
                     <label for="experiencia">Experiencia JavaScript:</label>
                     <div>
                         <div class="radio-inline">
-                            <label> <input type="radio" name="experiencia" id="experiencia" value="1">Principiante</label>
+                            <label> <input type="radio" name="experiencia" id="experiencia" value="1" checked>Principiante</label>
                         </div>
-                        <div class="radio-inline">
+                         <div class="radio-inline">
                             <label> <input type="radio" name="experiencia" value="2">Intermedio</label>
                         </div>
                         <div class="radio-inline">
@@ -80,8 +87,8 @@
                     <label for="expectativas">Expectativas que tiene del evento:</label>
                     <textarea class="form-control" id="expectativas" cols="30" rows="5"></textarea>
                 </div>
-                <button class="btn btn-default" id="registrarEvento">Registro</button>
-                <img src="images/loading.gif" alt="Cargando" class="indicador-carga hidden" id="inidicadorCarga">
+                <button type="submit" class="btn btn-default" id="registrarEvento">Registro</button>
+                <img src="images/loading.gif" alt="Cargando" class="indicador-carga hidden" id="indicadorCarga">
             </form>
         </div>
     </div>
@@ -89,5 +96,9 @@
 
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
+    <script src="js/validacionFormulario.js"></script>
+    <script src="js/solicitudesAPI.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>

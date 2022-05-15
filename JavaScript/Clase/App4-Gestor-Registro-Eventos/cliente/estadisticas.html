@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Registro Eventos</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed"  data-toggle="collapse" data-target="#navbar" aria-expanded="true"
+                aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span> 
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="index.html" class="navbar-brand">Registro de Eventos</a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li ><a href="index.html">Inicio</a></li>
+                    <li class="active"><a href="estadisticas.html">Estadisticas</a></li>
+                    <li><a href="ubicacion.html">Ubicacion</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+
+        <h1 class="titulo">Datos Asistencia</h1>
+        <div id="indicadorCarga">
+            <p>Los datos se estan cargando</p>
+            <img src="images/loading.gif" alt="Cargando..." class="indicador-carga">
+        </div>
+        <div id="errorCarga" class="hidden">
+            <h3>No se ha podido cargar los datos de estadísticas. Intente refrescando la pagina.</h3>
+        </div>
+        <ul class="nav nav-tabs hidden" id="tabsEstadisticas">
+            <li role="presentation" class="active"><a href="" id="tabProfesion">Profesion</a></li>
+            <li role="presentation"><a href="" id="tabExperiencia">Experiencia</a></li>
+            <li role="presentation"><a href="" id="tabEdad">Edad</a></li>
+            
+        </ul>
+
+        <div id="areaEstadisticas" class="hidden area-estadisticas">
+            <canvas id="graficoProfesion"></canvas>
+            <canvas id="graficoExperiencia"></canvas>
+            <canvas id="graficoEdad"></canvas>
+        </div>
+
+    </div>
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
+    <script src="js/solicitudesAPI.js"></script>
+    <script src="js/estadisticas.js"></script>
+</body>
+
+</html>
