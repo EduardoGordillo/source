@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.1"
+  },
+  "name": "applicattions",
+  "version": "1.0.0",
+  "description": "Servidor de curso",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "servidor"
+  ],
+  "author": "Eduardo Gordillo",
+  "license": "ISC"
+}
