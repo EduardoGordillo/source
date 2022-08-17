@@ -1,0 +1,50 @@
+<meta charset="utf-8">
+
+<h2>
+	<big>Adivina el Numero
+	</big>
+</h2>
+
+<script type="text/javascript">
+	function saltoLinea (num){
+ 		for(let i = 0; i < num; i++){
+ 			document.write("<br>");
+ 		}
+ 	}
+ 	function calcularIMC (peso, altura){
+ 		return (peso /(altura * altura))
+
+ 	}
+ 	function imprimir(text){
+ 		document.write(text);
+ 		saltoLinea(2);
+ 	}
+ 	function sorteo(n){
+ 		return Math.floor(Math.random() * n);
+
+ 	}
+ 	var maxNumero = prompt('Ingrese la cantidad deseada de numero')
+ 	var numeroPensado = sorteo(maxNumero);
+ 	var intentos = 1;
+
+ 	while(intentos <= 3){
+ 		var numeroLanzado = parseInt(prompt('Ingrese un numero entre 1-'+ maxNumero));
+
+ 		if(numeroLanzado == numeroPensado){
+ 		imprimir(`Usted acerto en el intento ${intentos} el numero era ${numeroPensado}`);
+ 		break;
+ 		//intentos += 3;
+ 		}
+ 		else if(numeroLanzado < numeroPensado){
+ 		alert(`Usted erro, su numero es mas pequeño`); 
+ 		}
+ 		else {
+ 		alert('Usted erro, su numero es mas grande')
+ 		}
+
+ 		intentos++;
+ 	}
+
+
+
+</script>

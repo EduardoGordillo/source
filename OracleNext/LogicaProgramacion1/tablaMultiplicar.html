@@ -1,0 +1,34 @@
+<meta charset="utf-8">
+
+<h1>Programa para calcular multiplicacion de un numero dado hasta un limite</h1>
+
+<script type="text/javascript">
+	
+	
+
+
+	function saltoLinea(lineas){
+		let i = 0
+
+		while( i < lineas){
+			document.write("<br>");
+			i++;
+		}
+
+	}
+	function imprimir(texto){
+		document.write(texto);
+		saltoLinea(2);
+
+	}
+
+	var numeroMultiplicar = parseInt(prompt('Ingrese el numero a multiplicar'));
+	var vecesMultiplicar = parseInt(prompt('Ingrese cuantas veces desea multiplicarlo'));
+
+	for(let i = 1; i <= vecesMultiplicar; i++){
+
+		imprimir(`${numeroMultiplicar} * ${i} = ${numeroMultiplicar * i}`);
+	}
+
+
+</script>

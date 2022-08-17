@@ -1,0 +1,64 @@
+<meta charset="utf-8">
+
+HTML 
+<br>
+Estoy definiendo la edad de Edd
+<br>
+Cual sera la Edad?
+<br>
+JavaScript
+<br>
+<br>
+
+
+
+<script type="text/javascript">
+
+ 	var a = 'Edd';
+ 	var date = 2022
+
+ 	function saltoLinea (num){
+ 		for(let i = 0; i < num; i++){
+ 			document.write("<br>");
+ 		}
+ 	}
+
+ 	function imprimir(text){
+ 		document.write(text);
+ 		saltoLinea(2);
+ 	}
+	imprimir(`Estoy definiendo la edad de ${a}`);
+	
+	imprimir("Cual sera la edad? ");
+	
+	imprimir(`${a} tiene `, 28, ' años');
+	
+	imprimir(`${a} nacio en el año `+ (date-28));
+
+	date = 2030;
+	
+	imprimir(`Estamos en el año ${date}`)
+
+	date = 2022;
+
+	
+
+	var edadBrenda = date -2010;
+
+	imprimir("Brenda tiene " + edadBrenda + " años");
+	
+
+	var edadSonia = date -2000;
+	imprimir("Sonia tiene " + edadSonia + " años");
+	
+	var edadZelda = date -1545;
+	imprimir("Zelda tiene " + edadZelda + " años");
+	
+
+	var promedio = Math.round((edadBrenda+edadSonia+edadZelda)/3);
+
+	imprimir(`El promedio de la edad de las tres mujeres es ${promedio}`)
+
+
+
+</script>

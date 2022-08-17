@@ -1,0 +1,70 @@
+<meta charset="utf-8">
+
+<h1>Media de las edades de una familia</h1>
+
+<script type="text/javascript">
+	
+	
+
+
+	function saltoLinea(lineas){
+		let i = 0
+
+		while( i < lineas){
+			document.write("<br>");
+			i++;
+		}
+
+	}
+	function imprimir(texto){
+		document.write(texto);
+		saltoLinea(2);
+
+	}
+	var cantidadFam = parseInt(prompt('Ingresa el numero de familiares a calcular'));
+	var i = 1;
+	var sumaEdades= 0;
+
+	while(i <= cantidadFam){
+		edades = parseInt(prompt('Ingresa edad de familiar ' + i))
+		sumaEdades += edades;
+		i++;
+
+	}
+
+	var mediaEdades = sumaEdades / cantidadFam;
+
+	imprimir('La media de edades es ' + mediaEdades);
+
+
+
+	/*
+	var cantidadFam = parseInt(prompt('Ingresa el numero de familiares a calcular'));
+	var i = 1;
+	var edades = []
+
+	while(i <= cantidadFam){
+		edades.push(parseInt(prompt('Ingresa edad de familiar ' + i)))
+		i++;
+
+	}
+	var sumaEdades = edades.reduce((x, y)=>  x +y);
+	var mediaEdades = sumaEdades / cantidadFam;
+
+	imprimir('La media de edades es ' + mediaEdades)*/
+
+
+	/*var edadPadre = 61;
+	var edadMadre = 60;
+	var edadHijo = 28;
+	var edadHija = 33;
+
+	var totalEdad = edadPadre + edadMadre + edadHijo  + edadHija;
+	var mediaEdad = totalEdad / 4;
+
+	imprimir('La media de las edades es: ' + mediaEdad);*/
+
+
+
+
+</script>

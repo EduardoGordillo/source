@@ -1,0 +1,39 @@
+<meta charset="utf-8">
+
+<h2>
+	<big>Adivina el Numero
+	</big>
+</h2>
+
+<script type="text/javascript">
+	function saltoLinea (num){
+ 		for(let i = 0; i < num; i++){
+ 			document.write("<br>");
+ 		}
+ 	}
+ 	
+ 	function imprimir(text){
+ 		document.write(text);
+ 		saltoLinea(2);
+ 	}
+ 	var  anioMundial = 1930;
+
+ 	var anioLimite = parseInt(prompt('Ingrese el año en curso'))
+
+ 	while (anioMundial < anioLimite){
+
+ 		alert("Hubo Mundial de la FIFA en el año" + anioMundial);
+
+ 		anioMundial += 4;
+
+
+
+ 	}
+ 	if(anioMundial == anioLimite){
+ 			imprimir('Este año hay mundial')
+ 		}
+ 		else{
+ 			imprimir('Este año no hay mundial')
+ 		}
+
+</script>

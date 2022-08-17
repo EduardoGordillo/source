@@ -1,0 +1,87 @@
+<meta charset="utf-8">
+
+<h2>Indice de Masa Corporal</h2>
+
+<script type="text/javascript">
+	function saltoLinea (num){
+ 		for(let i = 0; i < num; i++){
+ 			document.write("<br>");
+ 		}
+ 	}
+ 	function calcularIMC (peso, altura){
+ 		return (peso /(altura * altura))
+
+ 	}
+ 	function imprimir(text){
+ 		document.write(text);
+ 		saltoLinea(2);
+ 	}
+ 	var peso = prompt('Indique su peso')
+ 	var altura = prompt('Indique su altura')
+
+ 	var imc = calcularIMC(peso, altura);
+
+ 	imprimir(`Su indice de masa corporal es : ${imc}`);
+
+ 	if(imc < 18.5){
+ 		imprimir('Su IMC indica : Insuficiencia Ponderada');
+ 	}
+ 	else if(imc > 18.5 && imc < 24.9){
+ 		imprimir('Su IMC indica : Intervalo Normal');
+ 	}
+ 	else if(imc >= 25 && imc <29.9){
+ 		document.write('Su IMC indica : Sobrepeso');
+ 		if(imc >25.1 && imc < 29.9){
+ 			imprimir('<br>Con Preobesidad')
+ 		}
+ 	}
+ 	else if(imc >= 30){
+ 		document.write('Su IMC indica: Obesidad');
+ 		if(imc > 30 && imc < 34.9){
+ 			imprimir('Clase I')
+ 		}
+ 		else if(imc >= 35 && imc < 39.9){
+ 			imprimir('Clase II');
+ 		}
+ 		else if(imc >= 40){
+ 			imprimir('Clase III'); 
+ 		}
+
+ 	}
+
+
+
+
+
+ 	// Esto es una funcion estatica que no recibe ningun parametro
+ 	/*function calcularIMC (peso, altura){
+ 		return (peso /(altura * altura))
+
+ 	}
+ 	var imcEdd = calcularIMC(71, 1.61);
+ 	var imcIv = calcularIMC(80, 1.61);
+
+ 	imprimir(`El promedio calculado de Eduardo e Ivan es: ${(imcEdd + imcIv)/2}`);*/
+
+
+ 	// Las funciones deben estar dedicadas a retornar datos y luego procesar de alguna manera esa informacion
+ 	/*function calcularIMC (peso1, altura1, nombre1, peso2, altura2, nombre2){
+ 		let imcE = peso1/(altura1 * altura1);
+ 		let imcI = peso2/(altura2 * altura2);
+ 		let imcP = (imcE + imcI) /2
+
+ 		imprimir(`${nombre1} pesa ${peso1}Kg y mide ${altura1}m`);
+ 		imprimir(`Su indice de masa corporal es: ${imcE}`);
+ 		imprimir(`${nombre2} pesa ${peso2}Kg y mide ${altura2}m`);
+ 		imprimir(`Su indice de masa corporal es: ${imcI}`)
+ 		imprimir(`<big>El promedio de IMC es: ${imcP}</big>`)
+
+
+ 	}
+
+ 	calcularIMC(71, 1.61, 'Eduardo', 80, 1.61, 'Ivan');
+ 	pesoEdd = 71;*/
+
+
+
+</script>
