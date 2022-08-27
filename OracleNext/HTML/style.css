@@ -1,0 +1,19 @@
+
+h1{
+    text-align: center;
+    background: #BC470D;
+}
+
+#banner{
+    width: 100%;
+
+}
+p{
+    text-align: center;
+}
+#mision{
+    font-size: 30px;
+}
+em strong {
+    color: #ff0000;
+}
