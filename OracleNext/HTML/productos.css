@@ -1,0 +1,46 @@
+header{
+    background-color: #BBBBBB;
+    padding: 20px 0;
+
+}
+.box{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+
+}
+nav{
+    position: absolute;
+    top: 40%;
+    right: 25%;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 0  0 15PX;
+}
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size:  22px;
+    text-decoration: none;
+
+
+}
+.productos{
+    width: 940px;
+    margin: 0 auto;
+}
+.productos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+}
+
+.productos h2{
+    text-align: center;
+    font-weight: bold;
+    font-size:  22px;
+
+}

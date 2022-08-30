@@ -1,8 +1,9 @@
 .titulo1{
 
+    color: #341C11;
     text-align: center;
     font-size: 40px;
-    background-color: #A63D09;
+    background-color: #EDCCBB;
     background-size: 50%;
 }
 
@@ -48,6 +49,7 @@ ul{
     text-align: center;
     font-size: 30px;
     background-position: center;
+    background-color: #EDDCD3;
 }
 .imagenDiferenciales{
 
