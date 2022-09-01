@@ -1,0 +1,35 @@
+<canvas width="600" height="600"></canvas>
+    
+    <script>
+        
+        
+       
+    
+      function panel(x, y, color){
+        
+        var pantalla = document.querySelector("canvas");
+        var pincel = pantalla.getContext("2d");
+        
+        pincel.fillStyle = color;
+        pincel.strokeStyle = "black";
+        pincel.fillRect(x,y,50,50);
+        pincel.strokeRect(x,y,50,50);
+        
+
+
+        }
+        var x = 0;
+        while(x<600){
+            panel(x,100, "red");
+            panel(x,50, "yellow")
+            panel(x,0, "green");
+            x+= 50;
+        }
+
+      
+      
+        
+        
+
+        
+    </script>

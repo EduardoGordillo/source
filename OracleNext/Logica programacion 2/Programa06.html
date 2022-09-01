@@ -1,0 +1,43 @@
+<canvas width="600" height="400"></canvas>
+
+<script>
+
+    function dibujarRectangulo(x, y, base, altura, color) {
+        var pantalla = document.querySelector("canvas");
+        var pincel = pantalla.getContext("2d");
+
+        pincel.fillStyle=color;
+        pincel.fillRect(x,y, base, altura);
+        pincel.strokeStyle="black";
+        pincel.strokeRect(x,y, base, altura);
+    }
+
+    function escribirTexto(x , y, texto) {
+        var pantalla = document.querySelector("canvas");
+        var pincel = pantalla.getContext("2d");
+
+        pincel.font="15px Georgia";
+        pincel.fillStyle="black";
+        pincel.fillText(texto, x, y);    
+    }
+
+
+    var anio09 = [6,47,41,3,3]
+    var anio19 = [81,9,3,3,4]
+    var colores = ["blue","green","yellow", "red","gray"];
+    function dibujarBarra(x ,y, anio, color, texto){
+        escribirTexto(x +5, 10, texto)
+        
+
+        for(let i = 0; i < anio09.length; i++){
+        
+       
+        dibujarRectangulo(x, y, 50, anio[i], color[i])
+        y+=anio[i];
+        
+        }
+    }
+    dibujarBarra(100,50,anio09,colores, "2009"); //
+    dibujarBarra(200,50,anio19,colores, "2019"); //
+
+</script>
