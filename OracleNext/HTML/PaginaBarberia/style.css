@@ -92,3 +92,34 @@ footer{
     font-weight: bold;
     padding-top: 25px;
 }
+
+main{
+    width: 940px;
+    margin: 0 auto;
+
+}
+
+form{
+
+    margin: 40px;
+}
+
+form label, form legend{
+    display: block;
+    font-size: 18px;
+    margin: 0 0 10px
+}
+.input-padron{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.checkbox{
+
+    margin: 20px 0px;
+}
+.button-submit{
+
+    margin: 20px 30px;
+}
