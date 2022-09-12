@@ -7,7 +7,7 @@
     background-size: 50%;
 }
 
-#banner{
+.banner{
     width: 100%;
 
 }
@@ -16,7 +16,7 @@ p{
     text-align: center;
 }
 
-#mision{
+.mision{
     font-size: 25px;
 }
 .principal{
@@ -38,7 +38,10 @@ em strong {
     font-style: italic;
     font-size: 25px;    
 }
-ul{
+main{
+    width: 100%;
+}
+main ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
@@ -54,5 +57,6 @@ ul{
 .imagenDiferenciales{
 
     width: 50%;
+    float: right;
 
 }
