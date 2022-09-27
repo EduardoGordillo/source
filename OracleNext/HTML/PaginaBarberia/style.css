@@ -185,6 +185,8 @@ td, th{
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+   
+    text-shadow: 2px 2px  rgba(0, 0,0,20%);
 
 }
 .titulo-principal:first-letter{
@@ -252,11 +254,17 @@ td, th{
 .imagen-diferenciales{
 
     width: 60%;
+    border-radius: 12px;
+    box-shadow: -10px -10px 25px 10px #000000;
+    transition: 400ms;
     
-    
-    
-
 }
+
+.imagen-diferenciales:hover{
+
+    opacity: 30%;
+}
+
 .video{
     background: linear-gradient(#c7c7c7 ,#191d2e, #0d0c0c);
     margin: 0 auto;
@@ -269,3 +277,31 @@ td, th{
 }
    
 
+@media screen and (max-width:480px){
+    header h1{
+        text-align: center;
+    }
+    header nav{
+        position: static;
+    }
+    .utensilios{
+        width: 25%;
+    }
+    .principal{
+        width: auto;
+        text-align: right;
+        
+    }
+    .lista-diferenciales{
+        width: 100%;
+    }
+    .imagen-diferenciales{
+        width: 90%;
+        margin: 20px 20px;
+        
+
+    }
+    .box, .principal, .mapa-contenido, .contenido-diferenciales, .video-tamaño{
+        width: auto;
+    } 
+}
