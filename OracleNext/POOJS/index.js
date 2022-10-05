@@ -4,14 +4,12 @@ import {Cuenta} from "./Cuenta.js";
 
 const Jose = new Cliente('José', '1641');
 
-const cuentaJose = new Cuenta(19498);
-cuentaJose.cliente = Jose;
-const Daniel = new Cliente('Daniel', '195198');
-const cuentaDaniel = new Cuenta();
-console.log(cuentaJose);
-cuentaJose.depositoCuenta(10000);
-cuentaDaniel.depositoCuenta(100);
-cuentaJose.retirarCuenta(1000);
+const cuentaJose = new Cuenta(Jose, Cuenta.cantidadCuentas+1);
 
-var saldoJo = cuentaJose.consultaSaldo();
-console.log(saldoJo);
+console.log(cuentaJose, cuentaJose.cliente);
+
+const Daniel = new Cliente('Daniel', '1845');
+const cuentaDaniel = new Cuenta(Daniel, Cuenta.cantidadCuentas+1);
+console.log(cuentaDaniel, cuentaDaniel.cliente)
+
+console.log(Cuenta.cantidadCuentas)
