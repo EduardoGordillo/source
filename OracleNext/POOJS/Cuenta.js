@@ -5,21 +5,21 @@ export class Cuenta {
     #cliente;
     numero;
     #saldo;
-    static cantidadCuentas = 0;
     
 
     set cliente(ref) { 
         if(ref instanceof Cliente){
-           this.#cliente =  ref
+           this.#cliente =  ref;
         }
      }
     get cliente(){ return this.#cliente; }
 
-    constructor(cliente, numero){
+    constructor(cliente, numero, saldo){
+
         this.cliente = cliente || null;
         this.numero = numero;
-        this.#saldo = 0;
-        Cuenta.cantidadCuentas++;
+        this.#saldo = saldo || 0;
+        
     }
     depositoCuenta(valor)
     {
@@ -33,13 +33,21 @@ export class Cuenta {
            
         }
     }
-    retirarCuenta(valor){
+    retirarCuenta(valor, comision){
+        if(comision){
+            valor = valor * (1+comision/100)
+            console.log(valor)
+        }
+        
+        
+        
         if(this.#saldo < valor){
             console.log('Fondos insuficientes')
         }
         else{
+           
             return this.#saldo -= valor;
-            
+           
         }
     }
     consultaSaldo(){
