@@ -1,4 +1,4 @@
-import {Cliente} from './Cliente.js';
+import {Cliente} from '../Cliente.js';
 var exitoso = false;
 export class Cuenta {
     
@@ -16,9 +16,15 @@ export class Cuenta {
 
     constructor(cliente, numero, saldo){
 
+        if(this.constructor == Cuenta){
+            throw new Error('No se debe instanciar objetos de la clase cuenta')
+            //console.error('No se puede volver a instanciar la clase cuenta')
+        }
         this.cliente = cliente || null;
         this.numero = numero;
         this.#saldo = saldo || 0;
+        
+        
         
     }
     depositoCuenta(valor)
@@ -33,10 +39,15 @@ export class Cuenta {
            
         }
     }
+    retirarCuenta(valor){
+        //Metodo abstracto
+        throw new Error('Debe implementar el metodo retirarCuenta en la clase')
+    }
+
     retirarCuenta(valor, comision){
         if(comision){
             valor = valor * (1+comision/100)
-            console.log(valor)
+            
         }
         
         
