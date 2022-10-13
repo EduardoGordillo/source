@@ -9,9 +9,10 @@
     background: url('../../img/personas/andrea.jpg');
 }
 .persona__imagen{
-    height: 300px;
-    width: 300px;
     background-size: cover;
     background-position: center;
     border-radius: 100%;
+    height: 300px;
+    width: 300px;
+    
 }
