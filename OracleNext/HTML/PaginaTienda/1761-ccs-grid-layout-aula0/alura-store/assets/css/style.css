@@ -3,29 +3,38 @@
     font-family: Arial, Helvetica, sans-serif;
     display: grid;
     grid-template-areas:
-    "encabezado"
-    "contenido"
-    "rodapie";
+        "encabezado"
+        "contenido"
+        "rodapie";
     grid-template-columns: auto;
-    grid-template-rows: 50px 100vh auto;
-    
+    grid-template-rows: 50px auto auto;
+
 }
 
 .encabezado {
-
-  
+    align-items: center;
+    display: flex;
     grid-area: encabezado;
-  
-    
+    padding: 0 2rem 0 2rem;
+    margin-right: 3rem;
+
+
+
 }
+
 .contenido {
 
-    
+
     grid-area: contenido;
+    padding: 0 2rem;
 }
 
-.rodapie { 
+.rodapie {
 
-    
     grid-area: rodapie;
+    background: #fdfdfd;
+    color: #333333;
+    padding: 1rem;
+    text-align: center;
+
 }
