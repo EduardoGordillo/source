@@ -11,6 +11,7 @@ function mostrarElemento(elemento)
   console.log(elemento);
 }
 matriz.forEach(mostrarElemento);
+matriz.forEach((e)=> console.log(e))
 
 //ESNEXT for of
 // var se usa para un contexto general
