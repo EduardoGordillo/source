@@ -10,6 +10,7 @@
 
     padding-top: 12.25rem;
     padding-bottom: 2.5rem;
+    position: inherit;
 }
 
 .llamada__titulo {
