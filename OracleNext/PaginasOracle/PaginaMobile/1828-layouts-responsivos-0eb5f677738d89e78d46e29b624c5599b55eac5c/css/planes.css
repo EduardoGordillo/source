@@ -106,7 +106,7 @@
 }
 
 
-@media screen and (min-width: 681) and (max-width:10){
+@media screen and (min-width: 681px) and (max-width:1023px){
     .tarjetas{
         max-width: 400px;
     }
@@ -121,4 +121,5 @@
     .tarjetas {
         max-width: 300px;
     }
+  
 }

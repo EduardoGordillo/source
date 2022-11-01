@@ -54,8 +54,8 @@
 }
 
 
-@media screen and (min-width: 681) and (max-width:1023){
-   .institucional__contacto{
+@media screen and (min-width: 681px) {
+   .institucional__contacto-email{
     display: inline-block;
   
    }
@@ -64,6 +64,7 @@
    }
 }
 @media screen and (min-width: 1024px) {
+   
     .institucional__contenido {
         width: 100%;
         display: flex;
