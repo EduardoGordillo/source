@@ -1,6 +1,7 @@
+import { uniqueDates } from '../services/date.js';
 import checkComplete from './checkComplete.js';
 import deleteIcon from './deleteIcon.js';
-
+import { displayTask } from './readTask.js';
 const addTask = (evento)=>{ 
     evento.preventDefault();
     const list = document.querySelector('[data-list]');
@@ -16,24 +17,25 @@ const addTask = (evento)=>{
     calendar.value = '';
     if(value === '' || date === ''){
     
-      return 'Invalid'
+      return;
     }
-    else{
-      taskList.push({value, dateFormat});
-      localStorage.setItem('Task', JSON.stringify(taskList));
-      
-    
-      const task = createTask({value, dateFormat});
-      list.appendChild(task);
-    
+    const complete = false;
+    const taskObject = {
+      value,
+      dateFormat,
+      complete,
+      id: uuid.v4()
     }
-
+    list.innerHTML = '';
+    taskList.push(taskObject);
+    localStorage.setItem('Task', JSON.stringify(taskList));
+    displayTask();
     
   }
   
   
   
-export const createTask = ({value, dateFormat}) => {
+export const createTask = ({value, dateFormat, complete, id}) => {
     
    
     const task = document.createElement('li');
@@ -41,11 +43,17 @@ export const createTask = ({value, dateFormat}) => {
     
    
     const taskContent = document.createElement('div');
+    const check = checkComplete(id);
+    if(complete){
+      check.classList.toggle('fas');
+      check.classList.toggle('completeIcon');
+      check.classList.toggle('far');
+    }
   
     const titleTask = document.createElement('span');
         titleTask.classList.add('task');
         titleTask.innerText = value;
-        taskContent.appendChild(checkComplete());
+        taskContent.appendChild(check);
         taskContent.appendChild(titleTask);
     // task.innerHTML = content;
     const dateElement = document.createElement('span');
@@ -53,7 +61,7 @@ export const createTask = ({value, dateFormat}) => {
         
         task.appendChild(taskContent);
         task.appendChild(dateElement);
-        task.appendChild(deleteIcon());
+        task.appendChild(deleteIcon(id));
     return task;
   };
   
