@@ -18,7 +18,7 @@ class RegistroEvento{
 
     }
     subirFormulario(evento){
-        event.preventDefault();
+        evento.preventDefault();
       
 
         const datosFormulario = this.obtenerDatosFormulario();

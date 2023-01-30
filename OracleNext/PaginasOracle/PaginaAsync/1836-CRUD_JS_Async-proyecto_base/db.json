@@ -3,13 +3,17 @@
     {
       "nombre": "Eduardo Gordillo",
       "email": "live_carr@hotmail.com",
-      "id": 1
-    }
-    ,
+      "id": "e0fe144e-7c0c-44dc-abda-2910de316990"
+    },
     {
-      "nombre": "Ivan Gordillo",
-      "email": "live@hotmail.com",
-      "id": 2
+      "nombre": "Eduardo Roman",
+      "email": "edwardgord13@gmail.com",
+      "id": "a81121ff-9112-4389-bdf7-f107369fcebf"
+    },
+    {
+      "nombre": "Paco Herrera",
+      "email": "aislinnls30@gmail.com",
+      "id": "c643beed-a062-4a81-8cd5-c064f52baa7b"
     }
   ]
 }

@@ -40,3 +40,5 @@ use database_links;
 alter table links
 modify id int(11) not null AUTO_INCREMENT, AUTO_INCREMENT = 2;
 
+use database_links;
+select * from users;
