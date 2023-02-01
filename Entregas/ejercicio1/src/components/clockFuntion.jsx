@@ -21,8 +21,12 @@ const ClockFuntion = () => {
     setInterval(thick, 1000);
     return (
         <div>
+
               <h1>Hora: {stateFecha}</h1>
-              <h2>Edad: {edad}</h2>
+              <h1>
+                Nombre : {nombre} {apellido}
+              </h1>
+              <h2>Edad: {Edad}</h2>
         </div>
     );
 }
