@@ -7,9 +7,9 @@ const ChuckJokes = () => {
     const [likes, setLikes] = useState(0);
     const [unlikes, setUnlikes] = useState(0);
     useEffect(() => {
-        updateJoke();
+        
         return () => {
-
+            updateJoke();
         };
     }, []);
     const updateJoke=()=>{
@@ -33,7 +33,7 @@ const ChuckJokes = () => {
             <h3>Chuck Say´s:</h3>
             <p>{joke.value}</p>
             <button onClick={updateJoke}>Get another Joke!</button>
-            <p>If you like someone, you can vote  on liked or unliked, ever you vote add a point on each category.</p>
+            <p>If you like any, you can vote  on liked or unliked, ever you vote add a point on each category.</p>
             <Button variant="contained" onClick={likeButton}>Like</Button>
             <p>Likes : {likes}</p>
             <Button variant="outlined" onClick={unlikeButton}>Unlike</Button>
